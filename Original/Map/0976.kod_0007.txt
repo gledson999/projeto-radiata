@@ -1,0 +1,246 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Beast Pit
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=6]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-43, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Servia 
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=14]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-100, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Ortoroz & Silvia
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=9]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-75, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Dan & Sonia
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=18]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-148, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Store Hours: 7pm - 7am
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=16]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-107, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Believers wanted!
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=33]
+[OPCODE: 13 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-149, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 20 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Don't waste your life in <NL>
+[OPCODE: 22 | TextPosition | X=-75, Y=208]
+--- TEXT 2 ---
+this hellhole.
+[OPCODE: 24 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=40]
+[OPCODE: 26 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-185, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 33 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+The Olacion Order is the path <NL>
+[OPCODE: 35 | TextPosition | X=-108, Y=208]
+--- TEXT 4 ---
+to righteousness!
+[OPCODE: 37 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=3]
+[OPCODE: 39 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-9, Y=190]
+[OPCODE: 45 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 46 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 47 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 5 ---
+...
+[OPCODE: 49 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 50 | StringSize | Always0=0, Size=54]
+[OPCODE: 51 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 52 | TextColor | Color=2153736554]
+[OPCODE: 53 | TextShadow | Color=0]
+[OPCODE: 54 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 55 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 56 | TextPosition | X=-215, Y=168]
+[OPCODE: 57 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 6 ---
+They must be desperate for people<NL>
+[OPCODE: 59 | TextPosition | X=-184, Y=208]
+--- TEXT 7 ---
+if they came all the way here...
+[OPCODE: 61 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=6]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-52, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+WANTED
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=46]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-232, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Ten million dagols for whoever brings <NL>
+[OPCODE: 21 | TextPosition | X=-95, Y=208]
+--- TEXT 2 ---
+Ortoroz's head.
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=19]
+[OPCODE: 25 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-137, Y=190]
+[OPCODE: 31 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 32 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+Royal Radiata Knights
+[OPCODE: 34 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=6]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-52, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+WANTED
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=37]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-142, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Ten dagols for whoever<NL>
+[OPCODE: 21 | TextPosition | X=-127, Y=208]
+--- TEXT 2 ---
+brings Dynas's head.
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=42]
+[OPCODE: 25 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-205, Y=168]
+[OPCODE: 31 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 32 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+That's all he's worth around here.<NL>
+[OPCODE: 34 | TextPosition | X=-98, Y=208]
+--- TEXT 4 ---
+Void Community
+[OPCODE: 36 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=49]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-214, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+No complaining or returning goods!<NL>
+[OPCODE: 10 | TextPosition | X=-135, Y=208]
+--- TEXT 1 ---
+Alkaico General Store
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=21]
+[OPCODE: 14 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-168, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 21 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+Store Hours: 7:30am - 7pm
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+

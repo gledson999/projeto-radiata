@@ -1,0 +1,93 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Beast Pit
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=18]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-148, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Store Hours: 7pm - 7am
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=18]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-148, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Store Hours: 7pm - 7am
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=35]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-154, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+We will buy whatever junk<NL>
+[OPCODE: 10 | TextPosition | X=-99, Y=208]
+--- TEXT 1 ---
+you have to sell!
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=38]
+[OPCODE: 14 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-139, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 21 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+Levante General Store<NL>
+[OPCODE: 23 | TextPosition | X=-153, Y=208]
+--- TEXT 3 ---
+Store Hours: 2am - 10am
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=38]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-181, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Our weapons will outlast you!<NL>
+[OPCODE: 10 | TextPosition | X=-108, Y=208]
+--- TEXT 1 ---
+Dead End Armory
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=18]
+[OPCODE: 14 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-149, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 21 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+Store Hours: 5am - 8pm
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+

@@ -1,0 +1,109 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+The Vampire Casino
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=15]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-111, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+To our customers,
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=45]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-185, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+If you're going to kill someone,<NL>
+[OPCODE: 21 | TextPosition | X=-126, Y=208]
+--- TEXT 2 ---
+please do it outside.
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=47]
+[OPCODE: 25 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-145, Y=168]
+[OPCODE: 31 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 32 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+If you're going to cheat,<NL>
+[OPCODE: 34 | TextPosition | X=-195, Y=208]
+--- TEXT 4 ---
+make sure you don't get caught.
+[OPCODE: 36 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 37 | StringSize | Always0=0, Size=39]
+[OPCODE: 38 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 39 | TextColor | Color=2153736554]
+[OPCODE: 40 | TextShadow | Color=0]
+[OPCODE: 41 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 42 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 43 | TextPosition | X=-216, Y=168]
+[OPCODE: 44 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 45 | TextSpeed | SpeedType=0]
+--- TEXT 5 ---
+For those in need of con partners, <NL>
+[OPCODE: 47 | TextPosition | X=-79, Y=208]
+--- TEXT 6 ---
+see manager.
+[OPCODE: 49 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=18]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-134, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+”Today's Amusement”
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=49]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-207, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Gangster's Gambling Tournament<NL>
+[OPCODE: 21 | TextPosition | X=-151, Y=208]
+--- TEXT 2 ---
+Dead bodies guaranteed!
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=39]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-89, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Dealer Wanted<NL>
+[OPCODE: 10 | TextPosition | X=-194, Y=208]
+--- TEXT 1 ---
+A gutsy person with experience!
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+

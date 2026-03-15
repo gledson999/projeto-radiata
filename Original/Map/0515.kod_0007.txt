@@ -1,0 +1,50 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Fort Helencia Pharmacy
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=39]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-149, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Feeling less than peppy?<NL>
+[OPCODE: 10 | TextPosition | X=-133, Y=208]
+--- TEXT 1 ---
+Try our Herb Extract!
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=17]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-129, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Business Know-How 1
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=55]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-212, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+I don't care if people beg or grovel,<NL>
+[OPCODE: 21 | TextPosition | X=-178, Y=208]
+--- TEXT 2 ---
+never give away merchandise!
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+

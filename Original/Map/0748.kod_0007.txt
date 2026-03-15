@@ -1,0 +1,21 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Room 103
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=6, Unknown=100]
+[OPCODE: 2 | StringSize | Always0=0, Size=2]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-22, Y=192]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=116, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=6]
+[OPCODE: 11 | FontStretching | XStretching=6144, YStretching=6144]
+--- TEXT 0 ---
+!?
+[OPCODE: 13 | TalkDelay | Timer=240, Always3=2]
+

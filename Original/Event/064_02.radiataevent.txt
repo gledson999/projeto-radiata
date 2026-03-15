@@ -1,0 +1,528 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=37]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-183, Y=168]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=1]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+Here it is, the conference hall.<NL>
+[OPCODE: 13 | TextPosition | X=-65, Y=208]
+[OPCODE: 14 | UnknownOpcode2 | Unknown=1]
+--- TEXT 1 ---
+And Jack...
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=34]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-206, Y=168]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=2]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+Please try 
+[OPCODE: 13 | UnknownOpcode2 | Unknown=1]
+--- TEXT 1 ---
+not to make an ass of<NL>
+[OPCODE: 15 | TextPosition | X=-54, Y=208]
+--- TEXT 2 ---
+yourself.
+[OPCODE: 17 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=75]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-220, Y=136]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=1]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+...And so the upshot of it all is that<NL>
+[OPCODE: 12 | TextPosition | X=-247, Y=176]
+--- TEXT 1 ---
+the knights were able to take control of<NL>
+[OPCODE: 14 | TextPosition | X=-78, Y=216]
+--- TEXT 2 ---
+Earth Valley.
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=47]
+[OPCODE: 9 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-216, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=2]
+[OPCODE: 16 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Ah, Jack, I'm glad you could make it.<NL>
+[OPCODE: 18 | TextPosition | X=-120, Y=208]
+[OPCODE: 19 | UnknownOpcode2 | Unknown=11]
+--- TEXT 1 ---
+Please, have a seat.
+[OPCODE: 21 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=17]
+[OPCODE: 9 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-112, Y=190]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=3]
+[OPCODE: 16 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Now, to continue...
+[OPCODE: 18 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=65]
+[OPCODE: 9 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-244, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=4]
+[OPCODE: 16 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+There was a problem. After we managed<NL>
+[OPCODE: 18 | TextPosition | X=-246, Y=208]
+--- TEXT 1 ---
+to secure the valley, a dragon appeared.
+[OPCODE: 20 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=65]
+[OPCODE: 9 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-223, Y=136]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=5]
+[OPCODE: 16 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=64, XSide=0]
+[OPCODE: 17 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+Perhaps someone who was there can<NL>
+[OPCODE: 19 | TextPosition | X=-168, Y=176]
+--- TEXT 1 ---
+provide us with the details.
+[OPCODE: 21 | UnknownOpcode2 | Unknown=1]
+--- TEXT 2 ---
+<NL>
+[OPCODE: 23 | TextPosition | X=-93, Y=216]
+--- TEXT 3 ---
+General Dynas.
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=40]
+[OPCODE: 9 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-254, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=6]
+[OPCODE: 16 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Gentlemen. I speak as one who fought the<NL>
+[OPCODE: 18 | TextPosition | X=-46, Y=208]
+--- TEXT 1 ---
+dragon.
+[OPCODE: 20 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=40]
+[OPCODE: 9 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-212, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=7]
+[OPCODE: 16 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+A dragon is powerful, frighteningly<NL>
+[OPCODE: 18 | TextPosition | X=-55, Y=208]
+--- TEXT 1 ---
+powerful.
+[OPCODE: 20 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=88]
+[OPCODE: 9 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-235, Y=136]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=8]
+[OPCODE: 16 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+I can attest that a single swipe of its<NL>
+[OPCODE: 18 | TextPosition | X=-235, Y=176]
+--- TEXT 1 ---
+claw can rip through our armor as if it<NL>
+[OPCODE: 20 | TextPosition | X=-198, Y=216]
+--- TEXT 2 ---
+were made of nothing but paper.
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=8]
+[OPCODE: 9 | DisplayBustup | Always1=6, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-50, Y=190]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=9]
+[OPCODE: 16 | NamePosition | CharacterNumber=6, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+General!
+[OPCODE: 18 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=20]
+[OPCODE: 9 | DisplayBustup | Always1=6, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-149, Y=190]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=10]
+[OPCODE: 16 | NamePosition | CharacterNumber=6, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+You speak like a coward!
+[OPCODE: 18 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=42]
+[OPCODE: 9 | DisplayBustup | Always1=6, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-72, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=11]
+[OPCODE: 16 | NamePosition | CharacterNumber=6, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 17 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+I defeated...
+[OPCODE: 19 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 20 | UnknownOpcode4 | Unknown0=6, Unknown1=2]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 22 | TextPosition | X=-234, Y=208]
+--- TEXT 2 ---
+We defeated that dragon, did we not?
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=39]
+[OPCODE: 9 | DisplayBustup | Always1=6, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-118, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=12]
+[OPCODE: 16 | NamePosition | CharacterNumber=6, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+We fought and won.<NL>
+[OPCODE: 18 | TextPosition | X=-191, Y=208]
+[OPCODE: 19 | UnknownOpcode2 | Unknown=21]
+--- TEXT 1 ---
+You saw it! You saw me slay it.
+[OPCODE: 21 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=6]
+[OPCODE: 9 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-39, Y=190]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=13]
+[OPCODE: 16 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Cross!
+[OPCODE: 18 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=7]
+[OPCODE: 9 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-45, Y=190]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=14]
+[OPCODE: 16 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Enough!
+[OPCODE: 18 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 16 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=61]
+[OPCODE: 9 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-236, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=15]
+[OPCODE: 16 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Sixteen years after the water dragon,<NL>
+[OPCODE: 18 | TextPosition | X=-222, Y=208]
+--- TEXT 1 ---
+the earth dragon comes to our land.
+[OPCODE: 20 | UnknownOpcode4 | Unknown0=2, Unknown1=258]
+[OPCODE: 21 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 17 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=46]
+[OPCODE: 9 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-239, Y=168]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=16]
+[OPCODE: 16 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 17 | UnknownOpcode4 | Unknown0=2, Unknown1=256]
+--- TEXT 0 ---
+Perhaps there is some truth to the old<NL>
+[OPCODE: 19 | TextPosition | X=-88, Y=208]
+--- TEXT 1 ---
+legend. 
+[OPCODE: 21 | UnknownOpcode2 | Unknown=1]
+--- TEXT 2 ---
+Larks...
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=75]
+[OPCODE: 25 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-219, Y=136]
+[OPCODE: 31 | VoiceLine | Always1F=31, VoiceId=17]
+[OPCODE: 32 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=64, XSide=0]
+[OPCODE: 33 | UnknownOpcode4 | Unknown0=3, Unknown1=258]
+--- TEXT 3 ---
+This one, Your Majesty? ”The tower<NL>
+[OPCODE: 35 | TextPosition | X=-255, Y=176]
+--- TEXT 4 ---
+breaks the sky; here come the dragons to<NL>
+[OPCODE: 37 | TextPosition | X=-90, Y=216]
+--- TEXT 5 ---
+bring it down.”
+[OPCODE: 39 | UnknownOpcode4 | Unknown0=3, Unknown1=256]
+[OPCODE: 40 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 18 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=79]
+[OPCODE: 9 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-215, Y=136]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=18]
+[OPCODE: 16 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+If the dragons have indeed come to<NL>
+[OPCODE: 18 | TextPosition | X=-250, Y=176]
+--- TEXT 1 ---
+destroy us, then we must take measures<NL>
+[OPCODE: 20 | TextPosition | X=-131, Y=216]
+--- TEXT 2 ---
+to protect ourselves.
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 19 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=86, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 5 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 6 | CharacterId | Value=33, Unknown=0]
+[OPCODE: 7 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 8 | StringSize | Always0=0, Size=72]
+[OPCODE: 9 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 10 | TextColor | Color=2153736554]
+[OPCODE: 11 | TextShadow | Color=0]
+[OPCODE: 12 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 13 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 14 | TextPosition | X=-256, Y=136]
+[OPCODE: 15 | VoiceLine | Always1F=31, VoiceId=19]
+[OPCODE: 16 | NamePosition | CharacterNumber=4, NameMode=2, YPosition=64, XSide=20]
+--- TEXT 0 ---
+Your Majesty, have you given any thought<NL>
+[OPCODE: 18 | TextPosition | X=-244, Y=176]
+--- TEXT 1 ---
+as to why the dragons have come to kill<NL>
+[OPCODE: 20 | TextPosition | X=-52, Y=216]
+--- TEXT 2 ---
+humans?
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 20 ###
+--- TEXT 0 ---
+Lucian
+

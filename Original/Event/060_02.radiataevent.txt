@@ -1,0 +1,473 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=9]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-63, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Look, Jack
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=32]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-240, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+The thing I had to keep a secret, is this
+[OPCODE: 21 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 22 | StringSize | Always0=0, Size=8]
+[OPCODE: 23 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 24 | TextColor | Color=2153736554]
+[OPCODE: 25 | TextShadow | Color=0]
+[OPCODE: 26 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 27 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 28 | TextPosition | X=-55, Y=190]
+[OPCODE: 29 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+This is it
+[OPCODE: 31 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=17]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-12, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+...!<NL>
+[OPCODE: 11 | TextPosition | X=-96, Y=208]
+--- TEXT 1 ---
+W-What is this?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=60]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-221, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I have to do some more research to <NL>
+[OPCODE: 11 | TextPosition | X=-247, Y=208]
+--- TEXT 1 ---
+figure out exactly when they were drawn
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=56]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-122, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+I can't say for sure,<NL>
+[OPCODE: 23 | TextPosition | X=-291, Y=208]
+[OPCODE: 24 | UnknownOpcode2 | Unknown=31]
+--- TEXT 3 ---
+but they're likely to be a few hundred years old
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=16]
+[OPCODE: 28 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-108, Y=190]
+[OPCODE: 34 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+They're that old!?
+[OPCODE: 36 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=63]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-267, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+They were drawn by someone who lived here<NL>
+[OPCODE: 11 | TextPosition | X=-220, Y=208]
+--- TEXT 1 ---
+a long time before you and I existed
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=11]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-80, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+What's that?
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=30]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-216, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Each picture is of a different place
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=61]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-228, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+The first is a picture of two dragons<NL>
+[OPCODE: 21 | TextPosition | X=-243, Y=208]
+--- TEXT 2 ---
+we've never seen, and the sun and moon
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=37]
+[OPCODE: 25 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-268, Y=190]
+[OPCODE: 31 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+But the only dragons we've never seen are...
+[OPCODE: 33 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 34 | StringSize | Always0=0, Size=27]
+[OPCODE: 35 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 36 | TextColor | Color=2153736554]
+[OPCODE: 37 | TextShadow | Color=0]
+[OPCODE: 38 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 39 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 40 | TextPosition | X=-198, Y=190]
+[OPCODE: 41 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+Yes, the gold and silver dragons
+[OPCODE: 43 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 44 | StringSize | Always0=0, Size=65]
+[OPCODE: 45 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 46 | TextColor | Color=2153736554]
+[OPCODE: 47 | TextShadow | Color=0]
+[OPCODE: 48 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 49 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 50 | TextPosition | X=-288, Y=168]
+[OPCODE: 51 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 5 ---
+The people of previous generations called them<NL>
+[OPCODE: 53 | TextPosition | X=-203, Y=208]
+--- TEXT 6 ---
+the sun dragon and moon dragon
+[OPCODE: 55 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 56 | StringSize | Always0=0, Size=49]
+[OPCODE: 57 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 58 | TextColor | Color=2153736554]
+[OPCODE: 59 | TextShadow | Color=0]
+[OPCODE: 60 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 61 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 62 | TextPosition | X=-221, Y=168]
+[OPCODE: 63 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 7 ---
+There is one important thing we can<NL>
+[OPCODE: 65 | TextPosition | X=-144, Y=208]
+--- TEXT 8 ---
+grasp from this picture
+[OPCODE: 67 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 68 | StringSize | Always0=0, Size=38]
+[OPCODE: 69 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 70 | TextColor | Color=2153736554]
+[OPCODE: 71 | TextShadow | Color=0]
+[OPCODE: 72 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 73 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 74 | TextPosition | X=-296, Y=190]
+[OPCODE: 75 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 9 ---
+The sun and the moon are shown simultaneously
+[OPCODE: 77 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 78 | StringSize | Always0=0, Size=69]
+[OPCODE: 79 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 80 | TextColor | Color=2153736554]
+[OPCODE: 81 | TextShadow | Color=0]
+[OPCODE: 82 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 83 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 84 | TextPosition | X=-257, Y=168]
+[OPCODE: 85 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 10 ---
+Right now, we have an understanding that<NL>
+[OPCODE: 87 | TextPosition | X=-265, Y=208]
+--- TEXT 11 ---
+when one dragon is awake, the other sleeps
+[OPCODE: 89 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 90 | StringSize | Always0=0, Size=47]
+[OPCODE: 91 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 92 | TextColor | Color=2153736554]
+[OPCODE: 93 | TextShadow | Color=0]
+[OPCODE: 94 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 95 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 96 | TextPosition | X=-244, Y=168]
+[OPCODE: 97 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 12 ---
+However, this picture proves our theory<NL>
+[OPCODE: 99 | TextPosition | X=-93, Y=208]
+--- TEXT 13 ---
+to be incorrect
+[OPCODE: 101 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=35]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-252, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+This picture shows both of the dragons...
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=44]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-310, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+...attacking humans, even if it is for a split second
+[OPCODE: 21 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=49]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-140, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Now, the next picture...<NL>
+[OPCODE: 11 | TextPosition | X=-209, Y=208]
+--- TEXT 1 ---
+The gold dragon is no longer there
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=41]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-316, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+The sun has set and it is time for the silver dragon
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=72]
+[OPCODE: 25 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-258, Y=168]
+[OPCODE: 31 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 3 ---
+The silver dragon is destroying the towns<NL>
+[OPCODE: 33 | TextPosition | X=-264, Y=208]
+--- TEXT 4 ---
+built by the people of previous generations
+[OPCODE: 35 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 36 | StringSize | Always0=0, Size=30]
+[OPCODE: 37 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 38 | TextColor | Color=2153736554]
+[OPCODE: 39 | TextShadow | Color=0]
+[OPCODE: 40 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 41 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 42 | TextPosition | X=-222, Y=190]
+[OPCODE: 43 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 5 ---
+What can you tell from this picture?
+[OPCODE: 45 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 46 | StringSize | Always0=0, Size=42]
+[OPCODE: 47 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 48 | TextColor | Color=2153736554]
+[OPCODE: 49 | TextShadow | Color=0]
+[OPCODE: 50 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 51 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 52 | TextPosition | X=-32, Y=168]
+[OPCODE: 53 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 6 ---
+Well...<NL>
+[OPCODE: 55 | TextPosition | X=-265, Y=208]
+--- TEXT 7 ---
+I can only tell that dragons attack humans
+[OPCODE: 57 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 58 | StringSize | Always0=0, Size=50]
+[OPCODE: 59 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 60 | TextColor | Color=2153736554]
+[OPCODE: 61 | TextShadow | Color=0]
+[OPCODE: 62 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 63 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 64 | TextPosition | X=-285, Y=168]
+[OPCODE: 65 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 8 ---
+Just as expected, the gold and silver dragons <NL>
+[OPCODE: 67 | TextPosition | X=-85, Y=208]
+--- TEXT 9 ---
+sleep in turns
+[OPCODE: 69 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 70 | StringSize | Always0=0, Size=48]
+[OPCODE: 71 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 72 | TextColor | Color=2153736554]
+[OPCODE: 73 | TextShadow | Color=0]
+[OPCODE: 74 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 75 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 76 | TextPosition | X=-207, Y=168]
+[OPCODE: 77 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 10 ---
+If not, the gold dragon would also<NL>
+[OPCODE: 79 | TextPosition | X=-147, Y=208]
+--- TEXT 11 ---
+be found in the painting
+[OPCODE: 81 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 82 | StringSize | Always0=0, Size=64]
+[OPCODE: 83 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 84 | TextColor | Color=2153736554]
+[OPCODE: 85 | TextShadow | Color=0]
+[OPCODE: 86 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 87 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 88 | TextPosition | X=-287, Y=168]
+[OPCODE: 89 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 12 ---
+This picture was created when the gold dragon<NL>
+[OPCODE: 91 | TextPosition | X=-196, Y=208]
+--- TEXT 13 ---
+was asleep and the silver awake
+[OPCODE: 93 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=23]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-171, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Wow, you really are a genius
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=16]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-40, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 20 | UnknownOpcode2 | Unknown=101]
+--- TEXT 1 ---
+I know.<NL>
+[OPCODE: 22 | TextPosition | X=-78, Y=208]
+--- TEXT 2 ---
+I am a genius
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=8, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=42]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-308, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+However, I can't make anything of the next picture
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=64]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-306, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+I think it is a battle between a knight and dragon.<NL>
+[OPCODE: 21 | TextPosition | X=-172, Y=208]
+--- TEXT 2 ---
+The dragon looks badly hurt
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=56]
+[OPCODE: 25 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-220, Y=168]
+[OPCODE: 31 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 3 ---
+But it does not seem like the knight<NL>
+[OPCODE: 33 | TextPosition | X=-202, Y=208]
+--- TEXT 4 ---
+is about to finish the dragon off
+[OPCODE: 35 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 36 | StringSize | Always0=0, Size=64]
+[OPCODE: 37 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 38 | TextColor | Color=2153736554]
+[OPCODE: 39 | TextShadow | Color=0]
+[OPCODE: 40 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 41 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 42 | TextPosition | X=-298, Y=168]
+[OPCODE: 43 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 5 ---
+It seems like they have some sort of connection.<NL>
+[OPCODE: 45 | TextPosition | X=-165, Y=208]
+--- TEXT 6 ---
+It is a fascinating painting
+[OPCODE: 47 | TalkDelay | Timer=120, Always3=3]
+

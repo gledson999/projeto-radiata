@@ -1,0 +1,41 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Lucian
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=29]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-131, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+なるほど ・・・そÊÂÊêとÔ<NL>
+[OPCODE: 11 | TextPosition | X=-139, Y=208]
+--- TEXT 1 ---
+\x8011はフォティーノの\x8012に・・・な
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=17]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-48, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+フフッ・・・<NL>
+[OPCODE: 11 | TextPosition | X=-114, Y=208]
+[OPCODE: 12 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 1 ---
+クェーサー ®Â出òたよ
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+

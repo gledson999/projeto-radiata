@@ -1,0 +1,52 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=33]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-237, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+General Dynas, are you feeling better?
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=17]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-118, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+I can't rest forever
+[OPCODE: 22 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=58]
+[OPCODE: 24 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-228, Y=168]
+[OPCODE: 30 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+The gold and silver dragons make the<NL>
+[OPCODE: 32 | TextPosition | X=-211, Y=208]
+--- TEXT 3 ---
+other dragons seem like mere rats
+[OPCODE: 34 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 35 | StringSize | Always0=0, Size=33]
+[OPCODE: 36 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 37 | TextColor | Color=2153736554]
+[OPCODE: 38 | TextShadow | Color=0]
+[OPCODE: 39 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 40 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 41 | TextPosition | X=-230, Y=190]
+[OPCODE: 42 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+Very well. I will prepare myself as well
+[OPCODE: 44 | TalkDelay | Timer=60, Always3=3]
+

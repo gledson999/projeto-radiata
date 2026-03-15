@@ -1,0 +1,109 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Lucian
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=48]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-238, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 0 ---
+The large man who just left the castle <NL>
+[OPCODE: 11 | TextPosition | X=-123, Y=208]
+--- TEXT 1 ---
+is actually a dragon
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=9]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-65, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+A dragon!?
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=41]
+[OPCODE: 13 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-177, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 20 | UnknownOpcode2 | Unknown=21]
+--- TEXT 1 ---
+Fire can be found in his eyes.<NL>
+[OPCODE: 22 | TextPosition | X=-127, Y=208]
+--- TEXT 2 ---
+He is the fire dragon
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=80]
+[OPCODE: 26 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-216, Y=136]
+[OPCODE: 32 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=64, XSide=0]
+[OPCODE: 33 | UnknownOpcode2 | Unknown=22]
+--- TEXT 3 ---
+It is exactly like what is written in <NL>
+[OPCODE: 35 | TextPosition | X=-158, Y=176]
+--- TEXT 4 ---
+the ancient manuscripts. <NL>
+[OPCODE: 37 | TextPosition | X=-212, Y=216]
+--- TEXT 5 ---
+General Dynas, give your command
+[OPCODE: 39 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=18]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-135, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Yes, we're on our way!
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=26]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-115, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+You can't stop it...<NL>
+[OPCODE: 13 | TextPosition | X=-51, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 1 ---
+Par
+[OPCODE: 16 | UnknownOpcode2 | Unknown=41]
+--- TEXT 2 ---
+sec...
+[OPCODE: 18 | TalkDelay | Timer=120, Always3=3]
+

@@ -1,0 +1,117 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=56]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-219, Y=168]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=1]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Lord Larks mustn't be kept waiting.<NL>
+[OPCODE: 12 | TextPosition | X=-170, Y=208]
+--- TEXT 1 ---
+He's in the conference hall...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=10]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-72, Y=190]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=2]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Lord Larks?
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=90]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-209, Y=136]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=3]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+Goodness me! Don't tell me you've<NL>
+[OPCODE: 12 | TextPosition | X=-220, Y=176]
+--- TEXT 1 ---
+forgotten his lordship?
+[OPCODE: 14 | UnknownOpcode2 | Unknown=21]
+--- TEXT 2 ---
+ Lord Larks?<NL>
+[OPCODE: 16 | TextPosition | X=-219, Y=216]
+--- TEXT 3 ---
+Commander-in-Chief of the knights?
+[OPCODE: 18 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=31]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-224, Y=190]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=4]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+The idiot has the intellect of an ape.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=16]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-130, Y=190]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=5]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Huh? What was that?
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=55]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-70, Y=136]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=6]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+Never mind!
+[OPCODE: 12 | UnknownOpcode2 | Unknown=31]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 14 | TextPosition | X=-240, Y=176]
+--- TEXT 2 ---
+The meeting's about to begin. Hurry up,<NL>
+[OPCODE: 16 | TextPosition | X=-84, Y=216]
+--- TEXT 3 ---
+monkey brain!
+[OPCODE: 18 | TalkDelay | Timer=120, Always3=3]
+

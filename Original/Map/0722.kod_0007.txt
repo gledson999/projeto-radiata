@@ -1,0 +1,102 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Theater Vancoor Basement 1st Floor
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=15]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-25, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=7]
+--- TEXT 0 ---
+Huh.
+[OPCODE: 11 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=-66, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 2 ---
+It's locked.
+[OPCODE: 16 | TalkDelay | Timer=60, Always3=2]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=20, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=32]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-237, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Sarge, where can we find crocogators?
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=35]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-262, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=118, XSide=0]
+--- TEXT 1 ---
+I think there may be some in the Elf region.
+[OPCODE: 21 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 22 | StringSize | Always0=0, Size=23]
+[OPCODE: 23 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 24 | TextColor | Color=2153736554]
+[OPCODE: 25 | TextShadow | Color=0]
+[OPCODE: 26 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 27 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 28 | TextPosition | X=-148, Y=190]
+[OPCODE: 29 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=118, XSide=0]
+--- TEXT 2 ---
+Near the light elf village.
+[OPCODE: 31 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 32 | StringSize | Always0=0, Size=41]
+[OPCODE: 33 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 34 | TextColor | Color=2153736554]
+[OPCODE: 35 | TextShadow | Color=0]
+[OPCODE: 36 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 37 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 38 | TextPosition | X=-283, Y=190]
+[OPCODE: 39 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+Do different animals live in different regions?
+[OPCODE: 41 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 42 | StringSize | Always0=0, Size=59]
+[OPCODE: 43 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 44 | TextColor | Color=2153736554]
+[OPCODE: 45 | TextShadow | Color=0]
+[OPCODE: 46 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 47 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 48 | TextPosition | X=-244, Y=168]
+[OPCODE: 49 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=96, XSide=0]
+--- TEXT 4 ---
+Obviously. They choose the environment<NL>
+[OPCODE: 51 | TextPosition | X=-176, Y=208]
+--- TEXT 5 ---
+they're most comfortable in.
+[OPCODE: 53 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 54 | StringSize | Always0=0, Size=55]
+[OPCODE: 55 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 56 | TextColor | Color=2153736554]
+[OPCODE: 57 | TextShadow | Color=0]
+[OPCODE: 58 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 59 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 60 | TextPosition | X=-226, Y=168]
+[OPCODE: 61 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=96, XSide=0]
+--- TEXT 6 ---
+When you're on these missions alone,<NL>
+[OPCODE: 63 | TextPosition | X=-185, Y=208]
+--- TEXT 7 ---
+you have to keep that in mind.
+[OPCODE: 65 | TalkDelay | Timer=120, Always3=3]
+

@@ -1,0 +1,312 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=4]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-29, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Yes?
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=48]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-202, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+I have to go to the meeting room.<NL>
+[OPCODE: 21 | TextPosition | X=-168, Y=208]
+--- TEXT 2 ---
+Can you tell me where it is?
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=54]
+[OPCODE: 25 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-235, Y=168]
+[OPCODE: 31 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 3 ---
+The meeting room is the closest room <NL>
+[OPCODE: 33 | TextPosition | X=-182, Y=208]
+--- TEXT 4 ---
+to the door you just entered.
+[OPCODE: 35 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=60]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-217, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+The meeting room is over there. It's<NL>
+[OPCODE: 10 | TextPosition | X=-233, Y=208]
+--- TEXT 1 ---
+the door near the one you entered by.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=34]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-136, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Can you tell me where <NL>
+[OPCODE: 11 | TextPosition | X=-128, Y=208]
+--- TEXT 1 ---
+the meeting room is?
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=60]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-214, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+It's the furthest door on the right.<NL>
+[OPCODE: 23 | TextPosition | X=-225, Y=208]
+--- TEXT 3 ---
+A guard is standing beside the door.
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=60]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-214, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+It's the furthest door on the right.<NL>
+[OPCODE: 10 | TextPosition | X=-225, Y=208]
+--- TEXT 1 ---
+A guard is standing beside the door.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=22]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-162, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Can I help you Sir Trainee?
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=24]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-184, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+Is the meeting room this way?
+[OPCODE: 21 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 22 | StringSize | Always0=0, Size=63]
+[OPCODE: 23 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 24 | TextColor | Color=2153736554]
+[OPCODE: 25 | TextShadow | Color=0]
+[OPCODE: 26 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 27 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 28 | TextPosition | X=-236, Y=168]
+[OPCODE: 29 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+Up the stairs, through the door on the<NL>
+[OPCODE: 31 | TextPosition | X=-225, Y=208]
+--- TEXT 3 ---
+right®it's the first door on the left.
+[OPCODE: 33 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=61]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-230, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+The meeting room is up another floor.<NL>
+[OPCODE: 10 | TextPosition | X=-224, Y=208]
+--- TEXT 1 ---
+Climb those stairs and make a right.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=34]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-136, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Can you tell me where <NL>
+[OPCODE: 11 | TextPosition | X=-128, Y=208]
+--- TEXT 1 ---
+the meeting room is?
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=46]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-217, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+Go to the top of the stairs. It's on<NL>
+[OPCODE: 23 | TextPosition | X=-129, Y=208]
+--- TEXT 3 ---
+the floor above that.
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=56]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-203, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Go to the top of the small tower<NL>
+[OPCODE: 10 | TextPosition | X=-218, Y=208]
+--- TEXT 1 ---
+stairs. It's on the floor above that.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=1]
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=47]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-181, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I can't find the meeting room.<NL>
+[OPCODE: 11 | TextPosition | X=-168, Y=208]
+--- TEXT 1 ---
+Can you tell me where it is?
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=51]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-211, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+Go through the door I just came in<NL>
+[OPCODE: 23 | TextPosition | X=-183, Y=208]
+--- TEXT 3 ---
+and speak to the guard there.
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=52]
+[OPCODE: 27 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-206, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+It is fairly complicated. If you get<NL>
+[OPCODE: 35 | TextPosition | X=-158, Y=208]
+--- TEXT 5 ---
+lost, ask a guard for help.
+[OPCODE: 37 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=33]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-202, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Please ask the guard in the small<NL>
+[OPCODE: 10 | TextPosition | X=-39, Y=208]
+--- TEXT 1 ---
+tower.
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=37]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-156, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Ouch! What are you doing!<NL>
+[OPCODE: 10 | TextPosition | X=-114, Y=208]
+--- TEXT 1 ---
+I must report this.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=267, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=48]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-202, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+You are to be known to everyone<NL>
+[OPCODE: 10 | TextPosition | X=-159, Y=208]
+--- TEXT 1 ---
+as a dangerous individual.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+

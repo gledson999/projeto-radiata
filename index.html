@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Radiata Stories - Text Editor</title>
+	<link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.min.css">
+    
+    <script src="https://www.gstatic.com/firebasejs/10.8.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.1/firebase-auth-compat.js"></script>
+</head>
+<body>
+
+    <div class="header">
+        <button id="mobileMenuBtn" class="mobile-menu-btn">≡</button>
+        
+        <div id="actionMenu" class="action-menu">
+            <button id="btnLoginGitHub">🐙 Entrar pelo GitHub</button>
+            <div id="userProfile" style="display: none; align-items: center; gap: 10px; color: white; font-weight: bold;"></div>
+            
+            <button id="btnWorkspace" disabled>📁 Carregar do GitHub</button>
+
+            <button id="btnSave" disabled>💾 Enviar (Pull Request)</button>
+            
+            <select id="bgCombo" disabled>
+                <option value="radlight.png">🌝 Imagem Clara</option>
+                <option value="raddark.png">🌚 Imagem Escura</option>
+            </select>
+
+            <select id="scriptTypeCombo" disabled>
+                <option value="História">História</option>
+                <option value="Batalhas">Batalhas</option>
+                <option value="Mapas">Mapas</option>
+                <option value="NPC">NPC</option>
+            </select>
+        </div>
+
+        <select id="fileCombo" disabled><option>📃 Selecione um Arquivo</option></select>
+
+        <label class="sound-label">
+            <input type="checkbox" id="chkSound" checked> Som
+        </label>
+		
+        <div class="progress-container">
+            <div id="progressBar" class="progress-bar"></div>
+            <div id="progressText" class="progress-text">Tradução: 0%</div>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="top-main">
+            <div class="treeview">
+                <ul id="scriptList"></ul>
+            </div>
+
+            <div class="preview-pane">
+                <canvas id="previewCanvas" width="640" height="480"></canvas>
+            </div>
+        </div>
+
+        <div class="editor-pane">
+            <div class="combos" style="display: flex; gap: 10px; margin-bottom: 5px;">
+                <label style="align-self: center; font-weight: bold;">Página do Diálogo:</label>
+                <select id="pageCombo" disabled><option>Página 1</option></select>
+            </div>
+
+            <label>Texto Original:</label>
+            <textarea id="txtOriginal" readonly></textarea>
+            
+            <label>Texto Traduzido (Use &lt;NL&gt; para quebrar linha):</label>
+            <textarea id="txtTranslated"></textarea>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('mobileMenuBtn').addEventListener('click', function() {
+            document.getElementById('actionMenu').classList.toggle('show');
+        });
+    </script>
+
+    <script src="js/engine.min.js"></script>
+	
+</body>
+</html>

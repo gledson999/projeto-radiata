@@ -1,0 +1,329 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Installation Center
+
+### SCRIPT 1 ###
+--- TEXT 0 ---
+Installation Person
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=74]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-209, Y=136]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=64, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+A portion of the data of Radiata <NL>
+[OPCODE: 11 | TextPosition | X=-149, Y=176]
+--- TEXT 1 ---
+will be installed into the<NL>
+[OPCODE: 13 | TextPosition | X=-186, Y=216]
+--- TEXT 2 ---
+PlayStation 2 hard disk drive.
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=8]
+[OPCODE: 17 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-46, Y=190]
+[OPCODE: 23 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 24 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 3 ---
+Install?
+[OPCODE: 26 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 27 | TalkDelay | Timer=65535, Always3=2]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=19]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-123, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Cancel installation?
+[OPCODE: 11 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=2]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=29]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-193, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Installation has been cancelled.
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=35]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-241, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+The installation process will now begin.
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=109]
+[OPCODE: 13 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-363, Y=156]
+[OPCODE: 19 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=100, XSide=1]
+[OPCODE: 20 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+[OPCODE: 21 | FontStretching | XStretching=3686, YStretching=4096]
+--- TEXT 1 ---
+During installation, do not turn off the power<NL>
+[OPCODE: 23 | TextPosition | X=-376, Y=180]
+--- TEXT 2 ---
+or cause impact to the 
+[OPCODE: 25 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 3 ---
+PlayStation®2
+[OPCODE: 27 | FontStretching | XStretching=3686, YStretching=4096]
+--- TEXT 4 ---
+ console or the <NL>
+[OPCODE: 29 | TextPosition | X=-179, Y=204]
+[OPCODE: 30 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 5 ---
+PlayStation
+[OPCODE: 32 | FontStretching | XStretching=1228, YStretching=4096]
+--- TEXT 6 ---
+®
+[OPCODE: 34 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 7 ---
+2
+[OPCODE: 36 | FontStretching | XStretching=3276, YStretching=4096]
+--- TEXT 8 ---
+ hard disk drive
+[OPCODE: 38 | FontStretching | XStretching=3686, YStretching=4096]
+--- TEXT 9 ---
+.
+[OPCODE: 40 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=21]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-134, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Installation complete.
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=68]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-181, Y=136]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=64, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+An error has occurred during <NL>
+[OPCODE: 11 | TextPosition | X=-184, Y=176]
+--- TEXT 1 ---
+installation. Please try again <NL>
+[OPCODE: 13 | TextPosition | X=-117, Y=216]
+--- TEXT 2 ---
+from the beginning.
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=82]
+[OPCODE: 17 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-334, Y=164]
+[OPCODE: 23 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=92, XSide=1]
+[OPCODE: 24 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 3 ---
+For numerous installation failures, please refer to the<NL>
+[OPCODE: 26 | TextPosition | X=-175, Y=204]
+[OPCODE: 27 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 4 ---
+PlayStation
+[OPCODE: 29 | FontStretching | XStretching=1228, YStretching=4096]
+--- TEXT 5 ---
+®
+[OPCODE: 31 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 6 ---
+2
+[OPCODE: 33 | FontStretching | XStretching=3276, YStretching=4096]
+--- TEXT 7 ---
+ hard disk drive<NL>
+[OPCODE: 35 | TextPosition | X=-95, Y=225]
+[OPCODE: 36 | FontStretching | XStretching=4096, YStretching=4096]
+--- TEXT 8 ---
+ manual or
+[OPCODE: 38 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 39 | StringSize | Always0=0, Size=34]
+[OPCODE: 40 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 41 | TextColor | Color=2153736554]
+[OPCODE: 42 | TextShadow | Color=0]
+[OPCODE: 43 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 44 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 45 | TextPosition | X=-221, Y=190]
+[OPCODE: 46 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 47 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 9 ---
+The 
+[OPCODE: 49 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 10 ---
+PlayStation®2
+[OPCODE: 51 | FontStretching | XStretching=1228, YStretching=4096]
+--- TEXT 11 ---
+ 
+[OPCODE: 53 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 12 ---
+BB
+[OPCODE: 55 | FontStretching | XStretching=1228, YStretching=4096]
+--- TEXT 13 ---
+ 
+[OPCODE: 57 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 14 ---
+Navigator
+[OPCODE: 59 | FontStretching | XStretching=4096, YStretching=4096]
+--- TEXT 15 ---
+manual.
+[OPCODE: 61 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=54]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-183, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+It has already been installed. <NL>
+[OPCODE: 11 | TextPosition | X=-196, Y=208]
+--- TEXT 1 ---
+It is not necessary to reinstall.
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=16]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-111, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 22 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 2 ---
+Reinstall anyway?
+[OPCODE: 24 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=2]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=48]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-335, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Not enough space available on 
+[OPCODE: 11 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 1 ---
+PlayStation
+[OPCODE: 13 | FontStretching | XStretching=1228, YStretching=4096]
+--- TEXT 2 ---
+®
+[OPCODE: 15 | FontStretching | XStretching=2048, YStretching=4096]
+--- TEXT 3 ---
+2
+[OPCODE: 17 | FontStretching | XStretching=3276, YStretching=4096]
+--- TEXT 4 ---
+ hard drive
+[OPCODE: 19 | FontStretching | XStretching=4096, YStretching=4096]
+--- TEXT 5 ---
+.
+[OPCODE: 21 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 22 | StringSize | Always0=0, Size=57]
+[OPCODE: 23 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 24 | TextColor | Color=2153736554]
+[OPCODE: 25 | TextShadow | Color=0]
+[OPCODE: 26 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 27 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 28 | TextPosition | X=-244, Y=168]
+[OPCODE: 29 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=1]
+[OPCODE: 30 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 6 ---
+999MB of available space is necessary <NL>
+[OPCODE: 32 | TextPosition | X=-170, Y=208]
+--- TEXT 7 ---
+for installation of Radiata.
+[OPCODE: 34 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 35 | StringSize | Always0=0, Size=22]
+[OPCODE: 36 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 37 | TextColor | Color=2153736554]
+[OPCODE: 38 | TextShadow | Color=0]
+[OPCODE: 39 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 40 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 41 | TextPosition | X=-137, Y=190]
+[OPCODE: 42 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=1]
+[OPCODE: 43 | UnknownOpcode3 | Unknown0=1, Unknown1=2]
+--- TEXT 8 ---
+Canceling installation.
+[OPCODE: 45 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+--- TEXT 0 ---
+Install?
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+--- TEXT 0 ---
+Yes<NL>No
+
+### SCRIPT 12 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+--- TEXT 0 ---
+Cancel?
+
+### SCRIPT 13 ###
+[OPCODE: 0 | CharacterId | Value=100, Unknown=0]
+--- TEXT 0 ---
+Yes<NL>No
+

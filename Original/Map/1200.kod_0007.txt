@@ -1,0 +1,369 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Event Checking Room
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=87]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-127, Y=16]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=-56, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextPosition | X=-200, Y=-80]
+--- TEXT 0 ---
+Story First Half 1-12<NL>
+[OPCODE: 11 | TextPosition | X=-184, Y=-40]
+[OPCODE: 12 | TextPosition | X=-200, Y=-40]
+--- TEXT 1 ---
+Second Half 13-19 Human Side<NL>
+[OPCODE: 14 | TextPosition | X=-209, Y=0]
+[OPCODE: 15 | TextPosition | X=-200, Y=0]
+--- TEXT 2 ---
+Second Half 21-29 Nonhuman Side<NL>
+[OPCODE: 17 | TextPosition | X=-98, Y=40]
+[OPCODE: 18 | TextPosition | X=-200, Y=40]
+--- TEXT 3 ---
+Return to Game<NL>
+[OPCODE: 20 | TextPosition | X=-39, Y=80]
+[OPCODE: 21 | TextPosition | X=-200, Y=80]
+--- TEXT 4 ---
+Cancel<NL>
+[OPCODE: 23 | TextPosition | X=0, Y=120]
+--- TEXT 5 ---
+\xC20F<END>\x0005\xFF38\xFFB0\xFF38\xFFD8\xFF38<END>\xFF38[\xFF38■
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=13]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=0, Y=96]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=24, XSide=0]
+[OPCODE: 9 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 0 ---
+Jump<END>Don't jump
+
+### SCRIPT 3 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=47]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-298, Y=208]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+3. Delivering a Royal Message to the Light Elves
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=32]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-184, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+7. Entering the Warrior Guild
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=24]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-130, Y=208]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+7b. Crocogator Hide
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=22]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-117, Y=208]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+7c. Smilodon Tusk
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=23]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-120, Y=208]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+7c. Cafeteria Rats
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?
+[OPCODE: 15 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=32]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-201, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+8. Showing Parsec around Town
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=29]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-182, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+9. Zane and the Cocoon Tree
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=40]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-256, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+9b. The Destruction of the Jarvis Squad
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=26]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-143, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+10. Emergency Meeting
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=27]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-154, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+11. War with the Dwarves
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=28]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-54, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Jump to <NL>
+[OPCODE: 10 | TextPosition | X=-146, Y=176]
+[OPCODE: 11 | TextColor | Color=2147510634]
+--- TEXT 1 ---
+12. Ridley's Confession
+[OPCODE: 13 | TextColor | Color=2153736554]
+--- TEXT 2 ---
+?<NL>
+[OPCODE: 15 | TextPosition | X=0, Y=216]
+[OPCODE: 16 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=12]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-90, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Add missions?
+[OPCODE: 9 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=14]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=0, Y=136]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 9 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 0 ---
+Add them!<END>No way!
+
+### SCRIPT 16 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=11]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-63, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Raghhhhh!!!
+[OPCODE: 10 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 17 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+●Start Game from Halfway●<NL>LV 34<NL>Volty Blasts: Learn All<NL>Commands: Learn All<NL>Links: Learn All<NL>Appropriate Equipment<NL>Appropriate Items<NL>Appropriate Fund
+
+### SCRIPT 18 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+Start from second half of<NL>human side<NL>Start from second half of<NL>nonhuman side<NL>Cancel
+
+### SCRIPT 19 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=41]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-203, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Puts all characters in party list <NL>
+[OPCODE: 10 | TextPosition | X=-97, Y=208]
+--- TEXT 1 ---
+for debug mode.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 20 ###
+--- TEXT 0 ---
+Which tutorial?
+
+### SCRIPT 21 ###
+--- TEXT 0 ---
+Ganz<NL>Jarvis<NL>Gerald<NL>End
+
+### SCRIPT 22 ###
+--- TEXT 0 ---
+All items in practice menu <NL>are effective.
+

@@ -1,0 +1,250 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Lucian
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=50]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-213, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+So you are saying the wind dragon<NL>
+[OPCODE: 12 | TextPosition | X=-174, Y=208]
+--- TEXT 1 ---
+can be found in Wind Valley?
+[OPCODE: 14 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=21]
+[OPCODE: 16 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-148, Y=190]
+[OPCODE: 22 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+Yes, sir. That is correct
+[OPCODE: 24 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=48]
+[OPCODE: 26 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-192, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 3 ---
+Hm, I see. However, Wind Valley <NL>
+[OPCODE: 34 | TextPosition | X=-157, Y=208]
+--- TEXT 4 ---
+is a fiercely guarded area
+[OPCODE: 36 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 37 | StringSize | Always0=0, Size=40]
+[OPCODE: 38 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 39 | TextColor | Color=2153736554]
+[OPCODE: 40 | TextShadow | Color=0]
+[OPCODE: 41 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 42 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 43 | TextPosition | X=-142, Y=168]
+[OPCODE: 44 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 5 ---
+Now I understand why, <NL>
+[OPCODE: 46 | TextPosition | X=-169, Y=208]
+--- TEXT 6 ---
+because of the wind dragon
+[OPCODE: 48 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=11]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-89, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+We have a plan
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=9]
+[OPCODE: 14 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-67, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+What is it?
+[OPCODE: 22 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=23]
+[OPCODE: 24 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-169, Y=190]
+[OPCODE: 30 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+Let us give up Fort Helencia
+[OPCODE: 32 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 33 | StringSize | Always0=0, Size=5]
+[OPCODE: 34 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 35 | TextColor | Color=2153736554]
+[OPCODE: 36 | TextShadow | Color=0]
+[OPCODE: 37 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 38 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 39 | TextPosition | X=-37, Y=190]
+[OPCODE: 40 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+What?
+[OPCODE: 42 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 43 | StringSize | Always0=0, Size=34]
+[OPCODE: 44 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 45 | TextColor | Color=2153736554]
+[OPCODE: 46 | TextShadow | Color=0]
+[OPCODE: 47 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 48 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 49 | TextPosition | X=-175, Y=168]
+[OPCODE: 50 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+It is obvious the nonhumans <NL>
+[OPCODE: 52 | TextPosition | X=-85, Y=208]
+--- TEXT 5 ---
+want the fort
+[OPCODE: 54 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 55 | StringSize | Always0=0, Size=60]
+[OPCODE: 56 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 57 | TextColor | Color=2153736554]
+[OPCODE: 58 | TextShadow | Color=0]
+[OPCODE: 59 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 60 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 61 | TextPosition | X=-190, Y=168]
+[OPCODE: 62 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 6 ---
+If we lessen the security there,<NL>
+[OPCODE: 64 | TextPosition | X=-248, Y=208]
+--- TEXT 7 ---
+they will jump at the chance to invade it
+[OPCODE: 66 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 67 | StringSize | Always0=0, Size=77]
+[OPCODE: 68 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 69 | TextColor | Color=2153736554]
+[OPCODE: 70 | TextShadow | Color=0]
+[OPCODE: 71 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 72 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 73 | TextPosition | X=-293, Y=168]
+[OPCODE: 74 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 8 ---
+If that happens, their troops will be at the fort<NL>
+[OPCODE: 76 | TextPosition | X=-263, Y=208]
+--- TEXT 9 ---
+and there will be less security in the valley
+[OPCODE: 78 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 79 | StringSize | Always0=0, Size=49]
+[OPCODE: 80 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 81 | TextColor | Color=2153736554]
+[OPCODE: 82 | TextShadow | Color=0]
+[OPCODE: 83 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 84 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 85 | TextPosition | X=-30, Y=136]
+[OPCODE: 86 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=64, XSide=0]
+[OPCODE: 87 | UnknownOpcode2 | Unknown=1]
+--- TEXT 10 ---
+I see.<NL>
+[OPCODE: 89 | TextPosition | X=-199, Y=176]
+--- TEXT 11 ---
+I cannot say I agree with you on <NL>
+[OPCODE: 91 | TextPosition | X=-123, Y=216]
+--- TEXT 12 ---
+letting the fort go...
+[OPCODE: 93 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=262, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=64]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-195, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+As we discussed in the meeting,<NL>
+[OPCODE: 12 | TextPosition | X=-266, Y=208]
+--- TEXT 1 ---
+our first priority is slaying all the dragons
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=58]
+[OPCODE: 16 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-175, Y=168]
+[OPCODE: 22 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+That is what the king wants.<NL>
+[OPCODE: 24 | TextPosition | X=-266, Y=208]
+[OPCODE: 25 | UnknownOpcode2 | Unknown=1]
+--- TEXT 3 ---
+We can take back Fort Helencia afterwards
+[OPCODE: 27 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=30]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-206, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+All right. Take action immediately
+[OPCODE: 10 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=29]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-224, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=0]
+--- TEXT 0 ---
+So, humans cannot be stopped, I see
+[OPCODE: 10 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=63]
+[OPCODE: 12 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-161, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 1 ---
+First Kelvin, now Cepheid...<NL>
+[OPCODE: 20 | TextPosition | X=-290, Y=208]
+--- TEXT 2 ---
+The feared dragons are now in slumber. 
+[OPCODE: 22 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 3 ---
+Hahaha
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+

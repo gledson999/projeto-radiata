@@ -1,0 +1,59 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Star Tower Research Lab
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=13]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-94, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+A cute drawing.
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=25]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-174, Y=190]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Some meaningless scribbles.
+[OPCODE: 21 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=19]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-133, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+A textbook lies there.
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=48]
+[OPCODE: 12 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=-224, Y=168]
+[OPCODE: 18 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 19 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+The pictures are covered with years <NL>
+[OPCODE: 21 | TextPosition | X=-135, Y=208]
+--- TEXT 2 ---
+and years of doodles.
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+

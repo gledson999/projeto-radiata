@@ -1,0 +1,167 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Banquet Hall
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=6]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-57, Y=188]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=119, XSide=0]
+--- TEXT 0 ---
+\x2C0E \x0002
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=6]
+[OPCODE: 11 | FontStretching | XStretching=5324, YStretching=5324]
+--- TEXT 1 ---
+Eek!!!
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+--- TEXT 2 ---
+\x2C0E 
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=47]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-175, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=5]
+--- TEXT 0 ---
+I guess this is the originator<NL>
+[OPCODE: 11 | TextPosition | X=-151, Y=208]
+--- TEXT 1 ---
+of royal Radiata cuisine.
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=6]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-31, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 22 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 2 ---
+But...
+[OPCODE: 24 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=50]
+[OPCODE: 26 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-230, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 33 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 3 ---
+...there's no way I can enjoy my meals<NL>
+[OPCODE: 35 | TextPosition | X=-141, Y=208]
+--- TEXT 4 ---
+with him staring at me.
+[OPCODE: 37 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=6]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-21, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+.
+[OPCODE: 10 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 1 ---
+.
+[OPCODE: 12 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 2 ---
+.
+[OPCODE: 14 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 3 ---
+.
+[OPCODE: 16 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 4 ---
+.
+[OPCODE: 18 | TalkDelay | Timer=30, Always3=0]
+--- TEXT 5 ---
+・
+[OPCODE: 20 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=19]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-144, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+This Month's Set Meals
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=8]
+[OPCODE: 13 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-67, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 20 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Set Meal A
+[OPCODE: 22 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=34]
+[OPCODE: 24 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-154, Y=168]
+[OPCODE: 30 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 31 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+Rice  Soup  Rat Marinade<NL>
+[OPCODE: 33 | TextPosition | X=-116, Y=208]
+--- TEXT 3 ---
+Cooked Salted Bat
+[OPCODE: 35 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 36 | StringSize | Always0=0, Size=8]
+[OPCODE: 37 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 38 | TextColor | Color=2153736554]
+[OPCODE: 39 | TextShadow | Color=0]
+[OPCODE: 40 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 41 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 42 | TextPosition | X=-66, Y=190]
+[OPCODE: 43 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 44 | TextSpeed | SpeedType=0]
+--- TEXT 4 ---
+Set Meal B
+[OPCODE: 46 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 47 | StringSize | Always0=0, Size=40]
+[OPCODE: 48 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 49 | TextColor | Color=2153736554]
+[OPCODE: 50 | TextShadow | Color=0]
+[OPCODE: 51 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 52 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 53 | TextPosition | X=-127, Y=168]
+[OPCODE: 54 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 55 | TextSpeed | SpeedType=0]
+--- TEXT 5 ---
+Rice  Tailsoup  Salad<NL>
+[OPCODE: 57 | TextPosition | X=-186, Y=208]
+--- TEXT 6 ---
+Tusky Mammoth T-Bone Steak
+[OPCODE: 59 | TalkDelay | Timer=65535, Always3=3]
+

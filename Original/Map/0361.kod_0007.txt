@@ -1,0 +1,701 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Library
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=11]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-75, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Look inside?
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 11 | StringSize | Always0=0, Size=5]
+[OPCODE: 12 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 13 | TextColor | Color=2153736554]
+[OPCODE: 14 | TextShadow | Color=0]
+[OPCODE: 15 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 16 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 17 | TextPosition | X=0, Y=96]
+[OPCODE: 18 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=24, XSide=0]
+[OPCODE: 19 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 1 ---
+Yes<END>No
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=32]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-91, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Latest Edition<NL>
+[OPCODE: 10 | TextPosition | X=-147, Y=208]
+--- TEXT 1 ---
+Research on Nonhumans
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=50]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-192, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+In this world, there are several <NL>
+[OPCODE: 11 | TextPosition | X=-162, Y=208]
+--- TEXT 1 ---
+races other than humans...
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=34]
+[OPCODE: 15 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-210, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 22 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+...with highly advanced intelligence.
+[OPCODE: 24 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=49]
+[OPCODE: 26 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-235, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 33 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+We call all these races the nonhumans,<NL>
+[OPCODE: 35 | TextPosition | X=-115, Y=208]
+--- TEXT 4 ---
+or fairy creatures.
+[OPCODE: 37 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=55]
+[OPCODE: 39 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-248, Y=168]
+[OPCODE: 45 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 46 | TextSpeed | SpeedType=0]
+--- TEXT 5 ---
+The races we know to exist are Dwarves,<NL>
+[OPCODE: 48 | TextPosition | X=-146, Y=208]
+--- TEXT 6 ---
+Light Elves, Dark Elves...
+[OPCODE: 50 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 51 | StringSize | Always0=0, Size=51]
+[OPCODE: 52 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 53 | TextColor | Color=2153736554]
+[OPCODE: 54 | TextShadow | Color=0]
+[OPCODE: 55 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 56 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 57 | TextPosition | X=-190, Y=168]
+[OPCODE: 58 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 59 | TextSpeed | SpeedType=0]
+--- TEXT 7 ---
+...Green Goblins, Black Goblins,<NL>
+[OPCODE: 61 | TextPosition | X=-171, Y=208]
+--- TEXT 8 ---
+Green Orcs and Blood Orcs.
+[OPCODE: 63 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 64 | StringSize | Always0=0, Size=16]
+[OPCODE: 65 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 66 | TextColor | Color=2153736554]
+[OPCODE: 67 | TextShadow | Color=0]
+[OPCODE: 68 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 69 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 70 | TextPosition | X=-110, Y=190]
+[OPCODE: 71 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 72 | TextSpeed | SpeedType=0]
+--- TEXT 9 ---
+Seven races in all.
+[OPCODE: 74 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 75 | StringSize | Always0=0, Size=45]
+[OPCODE: 76 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 77 | TextColor | Color=2153736554]
+[OPCODE: 78 | TextShadow | Color=0]
+[OPCODE: 79 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 80 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 81 | TextPosition | X=-222, Y=168]
+[OPCODE: 82 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 83 | TextSpeed | SpeedType=0]
+--- TEXT 10 ---
+However, a completely new race has <NL>
+[OPCODE: 85 | TextPosition | X=-108, Y=208]
+--- TEXT 11 ---
+emerged recently.
+[OPCODE: 87 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 88 | StringSize | Always0=0, Size=60]
+[OPCODE: 89 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 90 | TextColor | Color=2153736554]
+[OPCODE: 91 | TextShadow | Color=0]
+[OPCODE: 92 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 93 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 94 | TextPosition | X=-225, Y=168]
+[OPCODE: 95 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 96 | TextSpeed | SpeedType=0]
+--- TEXT 12 ---
+With more research, we might be able<NL>
+[OPCODE: 98 | TextPosition | X=-220, Y=208]
+--- TEXT 13 ---
+to prove that there are eight races.
+[OPCODE: 100 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=21]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-150, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Constitution of Radiata
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=10]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-67, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+-Foreword-
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=45]
+[OPCODE: 13 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-209, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 20 | TextSpeed | SpeedType=0]
+--- TEXT 1 ---
+Under the benevolent grace of His<NL>
+[OPCODE: 22 | TextPosition | X=-113, Y=208]
+--- TEXT 2 ---
+Majesty the King...
+[OPCODE: 24 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=58]
+[OPCODE: 26 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-226, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 33 | TextSpeed | SpeedType=0]
+--- TEXT 3 ---
+...we the people of Radiata do hereby<NL>
+[OPCODE: 35 | TextPosition | X=-176, Y=208]
+--- TEXT 4 ---
+proclaim this constitution... 
+[OPCODE: 37 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=60]
+[OPCODE: 39 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-189, Y=168]
+[OPCODE: 45 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 46 | TextSpeed | SpeedType=0]
+--- TEXT 5 ---
+...to uphold the harmony of our<NL>
+[OPCODE: 48 | TextPosition | X=-244, Y=208]
+--- TEXT 6 ---
+peoples and to preserve the freedoms...
+[OPCODE: 50 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 51 | StringSize | Always0=0, Size=53]
+[OPCODE: 52 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 53 | TextColor | Color=2153736554]
+[OPCODE: 54 | TextShadow | Color=0]
+[OPCODE: 55 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 56 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 57 | TextPosition | X=-211, Y=168]
+[OPCODE: 58 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 59 | TextSpeed | SpeedType=0]
+--- TEXT 7 ---
+...of this land, for our children and<NL>
+[OPCODE: 61 | TextPosition | X=-137, Y=208]
+--- TEXT 8 ---
+our children's children.
+[OPCODE: 63 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 64 | StringSize | Always0=0, Size=23]
+[OPCODE: 65 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 66 | TextColor | Color=2153736554]
+[OPCODE: 67 | TextShadow | Color=0]
+[OPCODE: 68 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 69 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 70 | TextPosition | X=-168, Y=190]
+[OPCODE: 71 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 72 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 9 ---
+What is the author saying!?
+[OPCODE: 74 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=38]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-159, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+A Graphic Explanation of <NL>
+[OPCODE: 10 | TextPosition | X=-120, Y=208]
+--- TEXT 1 ---
+Ancient Characters
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=63]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-226, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Written are explanations of ancient <NL>
+[OPCODE: 11 | TextPosition | X=-221, Y=208]
+--- TEXT 1 ---
+characters found in different ruins.
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=3]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-9, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 22 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 2 ---
+...
+[OPCODE: 24 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=34]
+[OPCODE: 26 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-143, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 33 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 3 ---
+I don't even know what <NL>
+[OPCODE: 35 | TextPosition | X=-103, Y=208]
+--- TEXT 4 ---
+the title means...
+[OPCODE: 37 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=22]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-163, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Radiata's Book of History
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=58]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-225, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+The legendary account of the origins<NL>
+[OPCODE: 11 | TextPosition | X=-204, Y=208]
+--- TEXT 1 ---
+of the gods and ancient Radiata.
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=62]
+[OPCODE: 15 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-236, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 22 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+From the creation of Radiata Kingdom<NL>
+[OPCODE: 24 | TextPosition | X=-230, Y=208]
+--- TEXT 3 ---
+to the present day of Jiorus Grand...
+[OPCODE: 26 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=55]
+[OPCODE: 28 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-229, Y=168]
+[OPCODE: 34 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 35 | TextSpeed | SpeedType=0]
+--- TEXT 4 ---
+...this book contains everything there<NL>
+[OPCODE: 37 | TextPosition | X=-160, Y=208]
+--- TEXT 5 ---
+is to know about Radiata.
+[OPCODE: 39 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=23]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-169, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+World Weapon Encyclopedia
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=36]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-182, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+The most famous weapons in <NL>
+[OPCODE: 11 | TextPosition | X=-91, Y=208]
+--- TEXT 1 ---
+the world are...
+[OPCODE: 13 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=59]
+[OPCODE: 15 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-207, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 22 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+...the Avcoor, a legendary weapon <NL>
+[OPCODE: 24 | TextPosition | X=-215, Y=208]
+--- TEXT 3 ---
+from the period of the fairy wars...
+[OPCODE: 26 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=13]
+[OPCODE: 28 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-71, Y=190]
+[OPCODE: 34 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 35 | TextSpeed | SpeedType=0]
+--- TEXT 4 ---
+...and also...
+[OPCODE: 37 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=24]
+[OPCODE: 39 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-154, Y=190]
+[OPCODE: 45 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 46 | TextSpeed | SpeedType=0]
+--- TEXT 5 ---
+...the holy sword, Falvern.
+[OPCODE: 48 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 49 | StringSize | Always0=0, Size=40]
+[OPCODE: 50 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 51 | TextColor | Color=2153736554]
+[OPCODE: 52 | TextShadow | Color=0]
+[OPCODE: 53 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 54 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 55 | TextPosition | X=-225, Y=168]
+[OPCODE: 56 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 57 | TextSpeed | SpeedType=0]
+--- TEXT 6 ---
+These are the most famous weapons<NL>
+[OPCODE: 59 | TextPosition | X=-75, Y=208]
+--- TEXT 7 ---
+in existence.
+[OPCODE: 61 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 62 | StringSize | Always0=0, Size=49]
+[OPCODE: 63 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 64 | TextColor | Color=2153736554]
+[OPCODE: 65 | TextShadow | Color=0]
+[OPCODE: 66 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 67 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 68 | TextPosition | X=-218, Y=168]
+[OPCODE: 69 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 70 | TextSpeed | SpeedType=0]
+--- TEXT 8 ---
+There are others that are heard of <NL>
+[OPCODE: 72 | TextPosition | X=-143, Y=208]
+--- TEXT 9 ---
+only in legendary tales.
+[OPCODE: 74 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 75 | StringSize | Always0=0, Size=65]
+[OPCODE: 76 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 77 | TextColor | Color=2153736554]
+[OPCODE: 78 | TextShadow | Color=0]
+[OPCODE: 79 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 80 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 81 | TextPosition | X=-231, Y=168]
+[OPCODE: 82 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 83 | TextSpeed | SpeedType=0]
+--- TEXT 10 ---
+These are named after the gods, such<NL>
+[OPCODE: 85 | TextPosition | X=-251, Y=208]
+--- TEXT 11 ---
+as Efreet, Leviathan, Jinn and Behemoth.
+[OPCODE: 87 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 88 | StringSize | Always0=0, Size=63]
+[OPCODE: 89 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 90 | TextColor | Color=2153736554]
+[OPCODE: 91 | TextShadow | Color=0]
+[OPCODE: 92 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 93 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 94 | TextPosition | X=-231, Y=168]
+[OPCODE: 95 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 96 | TextSpeed | SpeedType=0]
+--- TEXT 12 ---
+However, these weapons are probably<NL>
+[OPCODE: 98 | TextPosition | X=-221, Y=208]
+--- TEXT 13 ---
+mythical and never actually existed.
+[OPCODE: 100 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=22]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-166, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Radiata Knights Who's Who
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=64]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-241, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Written are the names of royal knights<NL>
+[OPCODE: 10 | TextPosition | X=-235, Y=208]
+--- TEXT 1 ---
+from the first brigade to the present.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=52]
+[OPCODE: 14 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-185, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 21 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+The new recruits for this year<NL>
+[OPCODE: 23 | TextPosition | X=-207, Y=208]
+--- TEXT 3 ---
+already seem to have been added.
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=40]
+[OPCODE: 27 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-153, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 34 | TextSpeed | SpeedType=0]
+--- TEXT 4 ---
+Ridley Silverlake  Trainee<NL>
+[OPCODE: 36 | TextPosition | X=-127, Y=208]
+--- TEXT 5 ---
+Rose Cochon Brigade
+[OPCODE: 38 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 39 | StringSize | Always0=0, Size=43]
+[OPCODE: 40 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 41 | TextColor | Color=2153736554]
+[OPCODE: 42 | TextShadow | Color=0]
+[OPCODE: 43 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 44 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 45 | TextPosition | X=-193, Y=168]
+[OPCODE: 46 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 47 | TextSpeed | SpeedType=0]
+--- TEXT 6 ---
+Everyone has high expectations<NL>
+[OPCODE: 49 | TextPosition | X=-114, Y=208]
+--- TEXT 7 ---
+for this newcomer.
+[OPCODE: 51 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 52 | StringSize | Always0=0, Size=35]
+[OPCODE: 53 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 54 | TextColor | Color=2153736554]
+[OPCODE: 55 | TextShadow | Color=0]
+[OPCODE: 56 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 57 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 58 | TextPosition | X=-128, Y=168]
+[OPCODE: 59 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 60 | TextSpeed | SpeedType=0]
+--- TEXT 8 ---
+Jack Russell  Trainee<NL>
+[OPCODE: 62 | TextPosition | X=-127, Y=208]
+--- TEXT 9 ---
+Rose Cochon Brigade
+[OPCODE: 64 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 65 | StringSize | Always0=0, Size=41]
+[OPCODE: 66 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 67 | TextColor | Color=2153736554]
+[OPCODE: 68 | TextShadow | Color=0]
+[OPCODE: 69 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 70 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 71 | TextPosition | X=-235, Y=168]
+[OPCODE: 72 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 73 | TextSpeed | SpeedType=0]
+--- TEXT 10 ---
+A bland young man of whom very little<NL>
+[OPCODE: 75 | TextPosition | X=-72, Y=208]
+--- TEXT 11 ---
+is expected.
+[OPCODE: 77 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=28]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-211, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Tastes of Radiata -Warrior Town-
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=54]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-182, Y=168]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+Dagol tortoise stew is one of<NL>
+[OPCODE: 10 | TextPosition | X=-222, Y=208]
+--- TEXT 1 ---
+the three famous dishes of Radiata.
+[OPCODE: 12 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=58]
+[OPCODE: 14 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-226, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 21 | TextSpeed | SpeedType=0]
+--- TEXT 2 ---
+The tortoise is soaked in water and <NL>
+[OPCODE: 23 | TextPosition | X=-215, Y=208]
+--- TEXT 3 ---
+then boiled in wine for a whole day.
+[OPCODE: 25 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=55]
+[OPCODE: 27 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-208, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 34 | TextSpeed | SpeedType=0]
+--- TEXT 4 ---
+From beautiful ladies to warriors,<NL>
+[OPCODE: 36 | TextPosition | X=-178, Y=208]
+--- TEXT 5 ---
+those born in Warrior Town...
+[OPCODE: 38 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 39 | StringSize | Always0=0, Size=52]
+[OPCODE: 40 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 41 | TextColor | Color=2153736554]
+[OPCODE: 42 | TextShadow | Color=0]
+[OPCODE: 43 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 44 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 45 | TextPosition | X=-179, Y=168]
+[OPCODE: 46 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=96, XSide=0]
+[OPCODE: 47 | TextSpeed | SpeedType=0]
+--- TEXT 6 ---
+...all agree that this is one of<NL>
+[OPCODE: 49 | TextPosition | X=-191, Y=208]
+--- TEXT 7 ---
+the best dishes in the kingdom.
+[OPCODE: 51 | TalkDelay | Timer=65535, Always3=3]
+

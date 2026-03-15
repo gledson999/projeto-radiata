@@ -1,0 +1,18 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Tria Region
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=12]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-82, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+← Tria Village
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+

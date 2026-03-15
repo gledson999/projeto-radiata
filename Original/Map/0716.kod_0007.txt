@@ -1,0 +1,50 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+The Quarto Squad Locker Room
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=18]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-145, Y=190]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=118, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+--- TEXT 0 ---
+The Way of the Samurai
+[OPCODE: 10 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=4]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-59, Y=192]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=116, XSide=0]
+[OPCODE: 9 | FontStretching | XStretching=6144, YStretching=6144]
+--- TEXT 0 ---
+Soul
+[OPCODE: 11 | TalkDelay | Timer=65535, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=42]
+[OPCODE: 13 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-168, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 20 | UnknownOpcode2 | Unknown=1]
+[OPCODE: 21 | UnknownOpcode4 | Unknown0=1, Unknown1=11]
+--- TEXT 1 ---
+Cool. The word is so simple,<NL>
+[OPCODE: 23 | TextPosition | X=-130, Y=208]
+--- TEXT 2 ---
+it's totally awesome.
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 26 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+

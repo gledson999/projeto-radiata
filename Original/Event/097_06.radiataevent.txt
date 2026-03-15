@@ -1,0 +1,155 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=9]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=0, Y=96]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=24, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+[OPCODE: 10 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 0 ---
+Go!<END>Cancel
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=106]
+[OPCODE: 2 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-214, Y=56]
+[OPCODE: 8 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=-16, XSide=0]
+[OPCODE: 9 | TextSpeed | SpeedType=0]
+[OPCODE: 10 | TextPosition | X=-200, Y=-20]
+--- TEXT 0 ---
+Main 7. Entering the Warrior Guild <NL>
+[OPCODE: 12 | TextPosition | X=-182, Y=20]
+[OPCODE: 13 | TextPosition | X=-200, Y=40]
+--- TEXT 1 ---
+Main 7a. Sheila Goes Ballistic<NL>
+[OPCODE: 15 | TextPosition | X=-156, Y=80]
+[OPCODE: 16 | TextPosition | X=-200, Y=100]
+--- TEXT 2 ---
+Main 7b. Crocogator Hide<NL>
+[OPCODE: 18 | TextPosition | X=-225, Y=140]
+[OPCODE: 19 | TextPosition | X=-200, Y=160]
+--- TEXT 3 ---
+Sub 2. Ganz Fails Warrior Guild Test<NL>
+[OPCODE: 21 | TextPosition | X=0, Y=200]
+--- TEXT 4 ---
+\xA20F<END>\x0004\xFF38\xFFEC\xFF38[\xFF38B\xFF38Ò
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=106]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-149, Y=16]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=-56, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextColor | Color=2147510634]
+--- TEXT 0 ---
+7a. Sheila Goes Ballistic
+[OPCODE: 11 | TextColor | Color=2153736554]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=-225, Y=56]
+[OPCODE: 14 | TextSpeed | SpeedType=1792]
+--- TEXT 2 ---
+When Yuri dragged me to the square,<NL>
+[OPCODE: 16 | TextPosition | X=-166, Y=96]
+--- TEXT 3 ---
+I saw Ms. Sheila acting like <NL>
+[OPCODE: 18 | TextPosition | X=-102, Y=136]
+--- TEXT 4 ---
+an insane beast!<NL>
+[OPCODE: 20 | TextPosition | X=-125, Y=176]
+--- TEXT 5 ---
+What a scary sight...<NL>
+[OPCODE: 22 | TextPosition | X=0, Y=216]
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=27]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-123, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextColor | Color=2147510634]
+--- TEXT 0 ---
+7b. Crocogator Hide
+[OPCODE: 11 | TextColor | Color=2153736554]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=-65, Y=176]
+[OPCODE: 14 | TextSpeed | SpeedType=1792]
+--- TEXT 2 ---
+Incomplete<NL>
+[OPCODE: 16 | TextPosition | X=0, Y=216]
+[OPCODE: 17 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=127]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-177, Y=16]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=-56, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextColor | Color=2147510634]
+--- TEXT 0 ---
+7. Entering the Warrior Guild
+[OPCODE: 11 | TextColor | Color=2153736554]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=-206, Y=56]
+[OPCODE: 14 | TextSpeed | SpeedType=1792]
+--- TEXT 2 ---
+Sis, I was fired from the Radiata <NL>
+[OPCODE: 16 | TextPosition | X=-244, Y=96]
+--- TEXT 3 ---
+Knights and the captain introduced me <NL>
+[OPCODE: 18 | TextPosition | X=-123, Y=136]
+--- TEXT 4 ---
+to the warrior guild.<NL>
+[OPCODE: 20 | TextPosition | X=-193, Y=176]
+--- TEXT 5 ---
+I hope I pass the entrance exam<NL>
+[OPCODE: 22 | TextPosition | X=0, Y=216]
+[OPCODE: 23 | TalkDelay | Timer=65535, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=28]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-207, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextColor | Color=2147510634]
+--- TEXT 0 ---
+S2. Ganz Fails Warrior Guild Test
+[OPCODE: 11 | TextColor | Color=2153736554]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=0, Y=176]
+[OPCODE: 14 | TextSpeed | SpeedType=1792]
+--- TEXT 2 ---
+<NL>
+[OPCODE: 16 | TextPosition | X=0, Y=216]
+[OPCODE: 17 | TalkDelay | Timer=65535, Always3=3]
+

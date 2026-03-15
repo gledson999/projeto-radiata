@@ -1,0 +1,67 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=9]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=0, Y=96]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=24, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+[OPCODE: 10 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 0 ---
+Go!<END>Cancel
+
+### SCRIPT 1 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=55]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-195, Y=136]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextPosition | X=-200, Y=-20]
+--- TEXT 0 ---
+Main 1. The Beginning  First Half<NL>
+[OPCODE: 11 | TextPosition | X=-209, Y=20]
+[OPCODE: 12 | TextPosition | X=-200, Y=40]
+--- TEXT 1 ---
+Main 1. The Beginning  Second Half<NL>
+[OPCODE: 14 | TextPosition | X=0, Y=80]
+--- TEXT 2 ---
+\x620F<END>\x0002\xFF38\xFFEC\xFF38[
+
+### SCRIPT 2 ###
+[OPCODE: 0 | StringSize | Always0=0, Size=107]
+[OPCODE: 1 | DisplayBustup | Always1=0, Value=0]
+[OPCODE: 2 | TextColor | Color=2153736554]
+[OPCODE: 3 | TextShadow | Color=0]
+[OPCODE: 4 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 5 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 6 | TextPosition | X=-93, Y=16]
+[OPCODE: 7 | NamePosition | CharacterNumber=0, NameMode=0, YPosition=-56, XSide=0]
+[OPCODE: 8 | TextSpeed | SpeedType=0]
+[OPCODE: 9 | TextColor | Color=2147510634]
+--- TEXT 0 ---
+1. The Beginning
+[OPCODE: 11 | TextColor | Color=2153736554]
+--- TEXT 1 ---
+<NL>
+[OPCODE: 13 | TextPosition | X=-224, Y=56]
+--- TEXT 2 ---
+A young man arrives at Radiata for <NL>
+[OPCODE: 15 | TextPosition | X=-213, Y=96]
+--- TEXT 3 ---
+the Knight Selection. Will his hopes<NL>
+[OPCODE: 17 | TextPosition | X=-172, Y=136]
+--- TEXT 4 ---
+be dashed when he sees the <NL>
+[OPCODE: 19 | TextPosition | X=-83, Y=176]
+--- TEXT 5 ---
+competition!?<NL>
+[OPCODE: 21 | TextPosition | X=0, Y=216]
+[OPCODE: 22 | TalkDelay | Timer=65535, Always3=3]
+

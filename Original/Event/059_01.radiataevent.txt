@@ -1,0 +1,135 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Heavy Guardsman
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1064, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=33]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-243, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+I'm Jack Russell of the Theater Vancoor
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1064, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=22]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-121, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 0 ---
+What? Who are you?<NL>
+[OPCODE: 11 | TextPosition | X=-56, Y=208]
+--- TEXT 1 ---
+Go away!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1064, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=37]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-18, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Oh!<NL>
+[OPCODE: 11 | TextPosition | X=-244, Y=208]
+--- TEXT 1 ---
+You're Sir Jack, the wind dragon slayer!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=49]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-210, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 2 ---
+I hear Lord Larks has selected you<NL>
+[OPCODE: 23 | TextPosition | X=-147, Y=208]
+--- TEXT 3 ---
+for his personal cavalry
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1064, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=15]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-64, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+What? Me?<NL>
+[OPCODE: 11 | TextPosition | X=-43, Y=208]
+--- TEXT 1 ---
+Really?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=31]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-234, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=118, XSide=0]
+--- TEXT 2 ---
+Oh, I guess you didn't get the message
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=27]
+[OPCODE: 25 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-201, Y=190]
+[OPCODE: 31 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=118, XSide=0]
+--- TEXT 3 ---
+Lord Larks is waiting in his room
+[OPCODE: 33 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 34 | StringSize | Always0=0, Size=29]
+[OPCODE: 35 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 36 | TextColor | Color=2153736554]
+[OPCODE: 37 | TextShadow | Color=0]
+[OPCODE: 38 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 39 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 40 | TextPosition | X=-226, Y=190]
+[OPCODE: 41 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+Oh, by the way, this is my bodyguard
+[OPCODE: 43 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1064, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=7]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-47, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Yes, sir
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+

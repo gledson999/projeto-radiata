@@ -1,0 +1,365 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=42]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-93, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=2, Unknown1=2]
+--- TEXT 0 ---
+General Dynas!<NL>
+[OPCODE: 13 | TextPosition | X=-212, Y=208]
+--- TEXT 1 ---
+Is it true the fire dragon emerged?
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=35]
+[OPCODE: 17 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-59, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 24 | UnknownOpcode2 | Unknown=11]
+[OPCODE: 25 | UnknownOpcode4 | Unknown0=3, Unknown1=258]
+--- TEXT 2 ---
+...Yes, sir.<NL>
+[OPCODE: 27 | TextPosition | X=-188, Y=208]
+--- TEXT 3 ---
+We were not able to capture it
+[OPCODE: 29 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 30 | StringSize | Always0=0, Size=12]
+[OPCODE: 31 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 32 | TextColor | Color=2153736554]
+[OPCODE: 33 | TextShadow | Color=0]
+[OPCODE: 34 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 35 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 36 | TextPosition | X=-79, Y=190]
+[OPCODE: 37 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 38 | UnknownOpcode2 | Unknown=12]
+[OPCODE: 39 | UnknownOpcode4 | Unknown0=2, Unknown1=3]
+--- TEXT 4 ---
+It got away...
+[OPCODE: 41 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 42 | StringSize | Always0=0, Size=50]
+[OPCODE: 43 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 44 | TextColor | Color=2153736554]
+[OPCODE: 45 | TextShadow | Color=0]
+[OPCODE: 46 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 47 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 48 | TextPosition | X=-215, Y=168]
+[OPCODE: 49 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 50 | UnknownOpcode2 | Unknown=13]
+[OPCODE: 51 | UnknownOpcode4 | Unknown0=3, Unknown1=256]
+--- TEXT 5 ---
+However, it received a fatal wound.<NL>
+[OPCODE: 53 | TextPosition | X=-161, Y=208]
+--- TEXT 6 ---
+My men are chasing it now
+[OPCODE: 55 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 56 | StringSize | Always0=0, Size=30]
+[OPCODE: 57 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 58 | TextColor | Color=2153736554]
+[OPCODE: 59 | TextShadow | Color=0]
+[OPCODE: 60 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 61 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 62 | TextPosition | X=-204, Y=190]
+[OPCODE: 63 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 7 ---
+Let us gather
+[OPCODE: 65 | UnknownOpcode2 | Unknown=14]
+--- TEXT 8 ---
+all of the brigades...
+[OPCODE: 67 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=8]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-50, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=258]
+--- TEXT 0 ---
+General!
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=26]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-192, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Sir Jack, you will do the honors
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=4]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-28, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=5]
+--- TEXT 0 ---
+Huh?
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=27]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-209, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+I want you to slay the fire dragon
+[OPCODE: 23 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=6]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-40, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+What!?
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=42]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-214, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+You are the son of Cairn, slayer of<NL>
+[OPCODE: 22 | TextPosition | X=-107, Y=208]
+--- TEXT 2 ---
+the water dragon
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=58]
+[OPCODE: 26 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-278, Y=168]
+[OPCODE: 32 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 3 ---
+You are also Jack, slayer of the wind dragon.<NL>
+[OPCODE: 34 | TextPosition | X=-156, Y=208]
+--- TEXT 4 ---
+The men will listen to you
+[OPCODE: 36 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=53]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-83, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I-I can't do it!<NL>
+[OPCODE: 12 | TextPosition | X=-291, Y=208]
+--- TEXT 1 ---
+I mean, I once got fired from the knight brigade!
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=42]
+[OPCODE: 16 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-235, Y=168]
+[OPCODE: 22 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+I'm huge at Theater Vancoor, but here, <NL>
+[OPCODE: 24 | TextPosition | X=-66, Y=208]
+--- TEXT 3 ---
+I'm nothing
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=37]
+[OPCODE: 28 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-283, Y=190]
+[OPCODE: 34 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 35 | UnknownOpcode2 | Unknown=61]
+--- TEXT 4 ---
+I know!
+[OPCODE: 37 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 5 ---
+ Why doesn't that stuk-up Cross
+[OPCODE: 39 | UnknownOpcode4 | Unknown0=1, Unknown1=6]
+--- TEXT 6 ---
+ do it?
+[OPCODE: 41 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=63]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-108, Y=136]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+Cross will not do.<NL>
+[OPCODE: 12 | TextPosition | X=-259, Y=176]
+--- TEXT 1 ---
+His wounds have not healed from the wind<NL>
+[OPCODE: 14 | TextPosition | X=-111, Y=216]
+--- TEXT 2 ---
+dragon battle yet
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 17 | StringSize | Always0=0, Size=61]
+[OPCODE: 18 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 19 | TextColor | Color=2153736554]
+[OPCODE: 20 | TextShadow | Color=0]
+[OPCODE: 21 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 22 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 23 | TextPosition | X=-473, Y=190]
+[OPCODE: 24 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+The knights need someone who has seen it all, not just the view from the top
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=29]
+[OPCODE: 28 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-211, Y=190]
+[OPCODE: 34 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 35 | UnknownOpcode2 | Unknown=71]
+--- TEXT 4 ---
+Sir Jack, I think you should to this
+[OPCODE: 37 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=19]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-66, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+A-All right.<NL>
+[OPCODE: 13 | TextPosition | X=-47, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+--- TEXT 1 ---
+I'll do it
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=30]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-57, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 0 ---
+Very well.<NL>
+[OPCODE: 13 | TextPosition | X=-162, Y=208]
+--- TEXT 1 ---
+Please wait at Lupus Gate
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=61]
+[OPCODE: 17 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-247, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+I will send a messenger when we find out<NL>
+[OPCODE: 25 | TextPosition | X=-216, Y=208]
+--- TEXT 3 ---
+the whereabouts of the fire dragon
+[OPCODE: 27 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 28 | StringSize | Always0=0, Size=8]
+[OPCODE: 29 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 30 | TextColor | Color=2153736554]
+[OPCODE: 31 | TextShadow | Color=0]
+[OPCODE: 32 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 33 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 34 | TextPosition | X=-50, Y=190]
+[OPCODE: 35 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+Yes, sir!
+[OPCODE: 37 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=90, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=301, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=48]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-225, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Geez... I didn't expect something like <NL>
+[OPCODE: 12 | TextPosition | X=-99, Y=208]
+--- TEXT 1 ---
+this to happen...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+

@@ -1,0 +1,167 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=32]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=2]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=0, Y=56]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=0, YPosition=-16, XSide=0]
+[OPCODE: 9 | UnknownOpcode5 | Unknown0=1, Unknown1=65535]
+[OPCODE: 10 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 0 ---
+Follow Ridley<END>Meet Larks at<NL>
+[OPCODE: 12 | TextPosition | X=-79, Y=96]
+--- TEXT 1 ---
+the castle
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+Human Side: Fight the nonhumans<NL>together with the knights.<NL>Warning!<NL>All nonhumans will become the<NL>enemy. No nonhumans in your<NL>friend list will be able to join your<NL>party. Choose this side?
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+Yes!<NL>Er, no
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+Nonhuman Side: Go to the City of <NL>Flowers and join the nonhumans.<NL>Warning!<NL>All humans will become the enemy.<NL>No humans in your friend list will<NL>be able to join your party.<NL>Choose this side?
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+--- TEXT 0 ---
+Yes!<NL>Er, no
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=32]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-241, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=1]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+Hey! Why am I even thinking about this?
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=70]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-221, Y=136]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=2]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+”Knights of the same brigade are as<NL>
+[OPCODE: 11 | TextPosition | X=-86, Y=176]
+--- TEXT 1 ---
+family,” right?
+[OPCODE: 13 | UnknownOpcode2 | Unknown=1]
+--- TEXT 2 ---
+<NL>
+[OPCODE: 15 | TextPosition | X=-200, Y=216]
+--- TEXT 3 ---
+Even if I'm not a knight anymore!
+[OPCODE: 17 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=62]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-233, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=3]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+Besides, I can't let Ridley go off alone<NL>
+[OPCODE: 12 | TextPosition | X=-209, Y=208]
+--- TEXT 1 ---
+in that state. I have to follow her!
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=57]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-201, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=4]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+I don't get it... But hey, what do I<NL>
+[OPCODE: 12 | TextPosition | X=-202, Y=208]
+--- TEXT 1 ---
+know about poor little rich girls?
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=59]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-207, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=5]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=768]
+--- TEXT 0 ---
+It's probably just some rebellious<NL>
+[OPCODE: 12 | TextPosition | X=-206, Y=208]
+--- TEXT 1 ---
+phase. I bet she's always doing it.
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=28]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-199, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=6]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=1024]
+--- TEXT 0 ---
+I'm sure she'll be back in no time.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=29]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-209, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=7]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | TextSpeed | SpeedType=768]
+--- TEXT 0 ---
+Whoa! I'd better get to the castle.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+

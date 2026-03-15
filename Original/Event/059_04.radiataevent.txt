@@ -1,0 +1,258 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Lucian
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=51]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-259, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+The day and night are destined to rotate.<NL>
+[OPCODE: 11 | TextPosition | X=-129, Y=208]
+--- TEXT 1 ---
+We can't change that
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=29]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-223, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+We can't 
+[OPCODE: 12 | UnknownOpcode2 | Unknown=11]
+--- TEXT 1 ---
+change that if
+[OPCODE: 14 | UnknownOpcode2 | Unknown=12]
+[OPCODE: 15 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 2 ---
+ we don't try
+[OPCODE: 17 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=49]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-218, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 0 ---
+Try? 
+[OPCODE: 12 | UnknownOpcode4 | Unknown0=2, Unknown1=2]
+--- TEXT 1 ---
+What are you planning, playing<NL>
+[OPCODE: 14 | TextPosition | X=-134, Y=208]
+--- TEXT 2 ---
+with humans like this?
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=68]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-165, Y=136]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=64, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+I am not playing with them.<NL>
+[OPCODE: 13 | TextPosition | X=-225, Y=176]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+[OPCODE: 15 | UnknownOpcode4 | Unknown0=1, Unknown1=257]
+--- TEXT 1 ---
+On the contrary, I have been keeping <NL>
+[OPCODE: 17 | TextPosition | X=-118, Y=216]
+--- TEXT 2 ---
+them under control
+[OPCODE: 19 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 20 | StringSize | Always0=0, Size=62]
+[OPCODE: 21 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 22 | TextColor | Color=2153736554]
+[OPCODE: 23 | TextShadow | Color=0]
+[OPCODE: 24 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 25 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 26 | TextPosition | X=-188, Y=168]
+[OPCODE: 27 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 28 | UnknownOpcode2 | Unknown=31]
+--- TEXT 3 ---
+However, humans are driven by<NL>
+[OPCODE: 30 | TextPosition | X=-256, Y=208]
+--- TEXT 4 ---
+their survival instinct, which leads to war
+[OPCODE: 32 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 33 | StringSize | Always0=0, Size=16]
+[OPCODE: 34 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 35 | TextColor | Color=2153736554]
+[OPCODE: 36 | TextShadow | Color=0]
+[OPCODE: 37 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 38 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 39 | TextPosition | X=-120, Y=190]
+[OPCODE: 40 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 41 | UnknownOpcode2 | Unknown=32]
+[OPCODE: 42 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 5 ---
+I already 
+[OPCODE: 44 | UnknownOpcode4 | Unknown0=2, Unknown1=258]
+--- TEXT 6 ---
+know that
+[OPCODE: 46 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=65]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-225, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 0 ---
+Everytime humans build civilizations,<NL>
+[OPCODE: 13 | TextPosition | X=-229, Y=208]
+--- TEXT 1 ---
+dragons destroy it in a single breath
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=58]
+[OPCODE: 17 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-267, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+[OPCODE: 24 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+[OPCODE: 25 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 2 ---
+Towns are burned, thousand year old cities<NL>
+[OPCODE: 27 | TextPosition | X=-160, Y=208]
+--- TEXT 3 ---
+are turned to dust... 
+[OPCODE: 29 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+[OPCODE: 30 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 4 ---
+Why?
+[OPCODE: 32 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 33 | StringSize | Always0=0, Size=65]
+[OPCODE: 34 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 35 | TextColor | Color=2153736554]
+[OPCODE: 36 | TextShadow | Color=0]
+[OPCODE: 37 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 38 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 39 | TextPosition | X=-225, Y=168]
+[OPCODE: 40 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 41 | UnknownOpcode2 | Unknown=41]
+[OPCODE: 42 | UnknownOpcode4 | Unknown0=2, Unknown1=256]
+[OPCODE: 43 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 5 ---
+Because humans are filled with greed<NL>
+[OPCODE: 45 | TextPosition | X=-255, Y=208]
+--- TEXT 6 ---
+and arrogance 
+[OPCODE: 47 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 7 ---
+and will destroy the world
+[OPCODE: 49 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 50 | StringSize | Always0=0, Size=20]
+[OPCODE: 51 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 52 | TextColor | Color=2153736554]
+[OPCODE: 53 | TextShadow | Color=0]
+[OPCODE: 54 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 55 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 56 | TextPosition | X=-141, Y=190]
+[OPCODE: 57 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 8 ---
+In order to stop that...
+[OPCODE: 59 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=22]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-184, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Why do we have to stop that?
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=52]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-244, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 21 | UnknownOpcode2 | Unknown=51]
+[OPCODE: 22 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 1 ---
+If we don't, the world will be destroyed <NL>
+[OPCODE: 24 | TextPosition | X=-138, Y=208]
+--- TEXT 2 ---
+and will cease to exist
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=162, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=266, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=61]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-247, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I understand, but no one has seen where<NL>
+[OPCODE: 11 | TextPosition | X=-218, Y=208]
+--- TEXT 1 ---
+the humans will end up in the future
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=61]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-278, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 2 ---
+The towers built by humans have always been<NL>
+[OPCODE: 23 | TextPosition | X=-179, Y=208]
+--- TEXT 3 ---
+destroyed before completion
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+

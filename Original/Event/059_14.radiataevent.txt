@@ -1,0 +1,141 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Male Knight
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1062, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=59]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-97, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Sir Jack Russell<NL>
+[OPCODE: 11 | TextPosition | X=-338, Y=208]
+--- TEXT 1 ---
+We have discovered the whereabouts of the fire dragon
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=42]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-297, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=118, XSide=0]
+--- TEXT 2 ---
+It is hiding in Fire Mountain in the Dichett region
+[OPCODE: 23 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1062, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=19]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-38, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+O-Oh...<NL>
+[OPCODE: 12 | TextPosition | X=-89, Y=208]
+[OPCODE: 13 | UnknownOpcode4 | Unknown0=1, Unknown1=5]
+--- TEXT 1 ---
+Where is that?
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=37]
+[OPCODE: 17 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-150, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 2 ---
+It is beyond Shangri-La, <NL>
+[OPCODE: 25 | TextPosition | X=-101, Y=208]
+--- TEXT 3 ---
+the goblin village
+[OPCODE: 27 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 28 | StringSize | Always0=0, Size=56]
+[OPCODE: 29 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 30 | TextColor | Color=2153736554]
+[OPCODE: 31 | TextShadow | Color=0]
+[OPCODE: 32 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 33 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 34 | TextPosition | X=-210, Y=168]
+[OPCODE: 35 | NamePosition | CharacterNumber=2, NameMode=2, YPosition=96, XSide=0]
+--- TEXT 4 ---
+Lord Larks has told me to tell you<NL>
+[OPCODE: 37 | TextPosition | X=-216, Y=208]
+--- TEXT 5 ---
+to be well prepared for the journey
+[OPCODE: 39 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1062, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=51]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-64, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+Yeah yeah.<NL>
+[OPCODE: 12 | TextPosition | X=-297, Y=208]
+[OPCODE: 13 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 1 ---
+I can't believe I got fired once and now I'm back...
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 16 | StringSize | Always0=0, Size=52]
+[OPCODE: 17 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-208, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 24 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 2 ---
+...about to suppress a fire dragon<NL>
+[OPCODE: 26 | TextPosition | X=-181, Y=208]
+[OPCODE: 27 | UnknownOpcode2 | Unknown=31]
+[OPCODE: 28 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 3 ---
+I'm not sure I want to do this
+[OPCODE: 30 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1062, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=44]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-139, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+--- TEXT 0 ---
+But if there's a chance<NL>
+[OPCODE: 12 | TextPosition | X=-170, Y=208]
+[OPCODE: 13 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 1 ---
+that Ridley
+[OPCODE: 15 | UnknownOpcode2 | Unknown=41]
+--- TEXT 2 ---
+ might be there...
+[OPCODE: 17 | TalkDelay | Timer=120, Always3=3]
+

@@ -1,0 +1,445 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=46]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-202, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+This is where Ms. Ridley received <NL>
+[OPCODE: 12 | TextPosition | X=-120, Y=208]
+--- TEXT 1 ---
+the transpiritation
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=57]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-296, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=258]
+--- TEXT 0 ---
+She was attacked by a blood orc this far north.<NL>
+[OPCODE: 13 | TextPosition | X=-130, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=1, Unknown1=256]
+--- TEXT 1 ---
+Something isn't right
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=33]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-244, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Those look like the footprints of an orc
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=17]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-131, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Yes, of one blood orc
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=39]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-123, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=4]
+--- TEXT 0 ---
+That's not possible.<NL>
+[OPCODE: 13 | TextPosition | X=-154, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=3, Unknown1=0]
+--- TEXT 1 ---
+They live in the far south
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 17 | StringSize | Always0=0, Size=35]
+[OPCODE: 18 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 19 | TextColor | Color=2153736554]
+[OPCODE: 20 | TextShadow | Color=0]
+[OPCODE: 21 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 22 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 23 | TextPosition | X=-132, Y=168]
+[OPCODE: 24 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 25 | UnknownOpcode4 | Unknown0=3, Unknown1=3]
+--- TEXT 2 ---
+They're a community. <NL>
+[OPCODE: 27 | TextPosition | X=-121, Y=208]
+--- TEXT 3 ---
+They stick together
+[OPCODE: 29 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 30 | StringSize | Always0=0, Size=41]
+[OPCODE: 31 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 32 | TextColor | Color=2153736554]
+[OPCODE: 33 | TextShadow | Color=0]
+[OPCODE: 34 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 35 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 36 | TextPosition | X=-184, Y=168]
+[OPCODE: 37 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+Why 
+[OPCODE: 39 | UnknownOpcode4 | Unknown0=3, Unknown1=0]
+--- TEXT 5 ---
+would just one blood orc <NL>
+[OPCODE: 41 | TextPosition | X=-133, Y=208]
+--- TEXT 6 ---
+be roaming this area?
+[OPCODE: 43 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=37]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-274, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+The only orcs who would be roaming around...
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=43]
+[OPCODE: 14 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-304, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+...are the green orcs, because they have no village 
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=45]
+[OPCODE: 24 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-343, Y=190]
+[OPCODE: 30 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+I think someone brought the blood orc here for a reason
+[OPCODE: 32 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=54]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-185, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=3]
+--- TEXT 0 ---
+Really? Can someone do that?<NL>
+[OPCODE: 13 | TextPosition | X=-219, Y=208]
+[OPCODE: 14 | UnknownOpcode4 | Unknown0=3, Unknown1=258]
+--- TEXT 1 ---
+I mean, blood orcs are
+[OPCODE: 16 | UnknownOpcode4 | Unknown0=3, Unknown1=4]
+[OPCODE: 17 | UnknownOpcode4 | Unknown0=3, Unknown1=256]
+--- TEXT 2 ---
+ really strong
+[OPCODE: 19 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=14]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-81, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+You're right...
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=51]
+[OPCODE: 14 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-203, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+It would have to be a knight with <NL>
+[OPCODE: 22 | TextPosition | X=-190, Y=208]
+--- TEXT 2 ---
+more strength than the others
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=43]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-324, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=258]
+--- TEXT 0 ---
+I think it would be impossible for someone to do this
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=56]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-261, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Are you saying some knight trained an orc<NL>
+[OPCODE: 12 | TextPosition | X=-161, Y=208]
+--- TEXT 1 ---
+so it would attack Ridley?
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=44]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-217, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Ms. Rynka, Ms. Flau, would you mind<NL>
+[OPCODE: 12 | TextPosition | X=-106, Y=208]
+--- TEXT 1 ---
+finding that out?
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=20]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-153, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=256]
+--- TEXT 0 ---
+No way, it sounds boring
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=67]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-285, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+We are a boat in the midst of an ocean storm.<NL>
+[OPCODE: 12 | TextPosition | X=-234, Y=208]
+--- TEXT 1 ---
+A waterfall will appear and capsize us
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=48]
+[OPCODE: 16 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-234, Y=168]
+[OPCODE: 22 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+We need to find the waterfall in order<NL>
+[OPCODE: 24 | TextPosition | X=-131, Y=208]
+--- TEXT 3 ---
+to be able to avoid it
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=8]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-64, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=0]
+--- TEXT 0 ---
+Say what?
+[OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=21]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-126, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+...All right. We'll do it
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=16]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-129, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Thank you very much 
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 16 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=29]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-228, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=3]
+--- TEXT 0 ---
+What did he mean, ”an ocean storm”?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 17 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=62]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-221, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=2, Unknown1=258]
+--- TEXT 0 ---
+I don't know. I don't think he himself<NL>
+[OPCODE: 13 | TextPosition | X=-234, Y=208]
+--- TEXT 1 ---
+knew what he was talking about either
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 18 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=38]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-210, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=3, Unknown1=1]
+--- TEXT 0 ---
+I guess he wanted to show off his <NL>
+[OPCODE: 13 | TextPosition | X=-83, Y=208]
+--- TEXT 1 ---
+poetic nature
+[OPCODE: 15 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 19 ###
+[OPCODE: 0 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=4, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=5, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=19]
+[OPCODE: 4 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-137, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Or something like that
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+

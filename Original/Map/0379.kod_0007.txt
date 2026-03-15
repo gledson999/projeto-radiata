@@ -1,0 +1,84 @@
+### SCRIPT 0 ###
+--- TEXT 0 ---
+Radiata Castle South Gate
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=2, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=41]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-153, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+--- TEXT 0 ---
+What do we do now that <NL>
+[OPCODE: 13 | TextPosition | X=-166, Y=208]
+--- TEXT 1 ---
+we've finished the mission?
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=2]
+[OPCODE: 16 | StringSize | Always0=0, Size=49]
+[OPCODE: 17 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 18 | TextColor | Color=2153736554]
+[OPCODE: 19 | TextShadow | Color=0]
+[OPCODE: 20 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 21 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 22 | TextPosition | X=-235, Y=168]
+[OPCODE: 23 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 24 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 2 ---
+We must go immediately to Lord Larks<NL>
+[OPCODE: 26 | TextPosition | X=-140, Y=208]
+--- TEXT 3 ---
+and submit our report.
+[OPCODE: 28 | TalkDelay | Timer=120, Always3=2]
+[OPCODE: 29 | StringSize | Always0=0, Size=62]
+[OPCODE: 30 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 31 | TextColor | Color=2153736554]
+[OPCODE: 32 | TextShadow | Color=0]
+[OPCODE: 33 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 34 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 35 | TextPosition | X=-34, Y=168]
+[OPCODE: 36 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+Right.<NL>
+[OPCODE: 38 | TextPosition | X=-164, Y=208]
+[OPCODE: 39 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 5 ---
+The picnic isn't over till we<NL>
+[OPCODE: 41 | TextPosition | X=-241, Y=248]
+--- TEXT 6 ---
+get home and unpack the basket, right?
+[OPCODE: 43 | TalkDelay | Timer=120, Always3=2]
+[OPCODE: 44 | StringSize | Always0=0, Size=28]
+[OPCODE: 45 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 46 | TextColor | Color=2153736554]
+[OPCODE: 47 | TextShadow | Color=0]
+[OPCODE: 48 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 49 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 50 | TextPosition | X=-188, Y=168]
+[OPCODE: 51 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 52 | UnknownOpcode4 | Unknown0=2, Unknown1=3]
+--- TEXT 7 ---
+...Um, in a matter of speaking...
+[OPCODE: 54 | TalkDelay | Timer=60, Always3=2]
+[OPCODE: 55 | StringSize | Always0=0, Size=33]
+[OPCODE: 56 | DisplayBustup | Always1=3, Value=0]
+[OPCODE: 57 | TextColor | Color=2153736554]
+[OPCODE: 58 | TextShadow | Color=0]
+[OPCODE: 59 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 60 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 61 | TextPosition | X=-177, Y=168]
+[OPCODE: 62 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 63 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 8 ---
+He really does think this is a<NL>
+[OPCODE: 65 | TextPosition | X=-44, Y=208]
+--- TEXT 9 ---
+picnic...
+[OPCODE: 67 | TalkDelay | Timer=60, Always3=2]
+

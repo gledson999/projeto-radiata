@@ -1,0 +1,384 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=9]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-61, Y=190]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Please sit
+[OPCODE: 14 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=50]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-188, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Sir Gawain and Lord Zane are <NL>
+[OPCODE: 14 | TextPosition | X=-197, Y=208]
+--- TEXT 1 ---
+putting a lot of effort into this
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=48]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-218, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+But seeing the situation, it has not<NL>
+[OPCODE: 14 | TextPosition | X=-127, Y=208]
+--- TEXT 1 ---
+been very successful
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=41]
+[OPCODE: 6 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-308, Y=190]
+[OPCODE: 12 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+I had no idea so many were plagued by algandars...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=58]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-129, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Time will bring death.<NL>
+[OPCODE: 14 | TextPosition | X=-290, Y=208]
+--- TEXT 1 ---
+True death means the destruction of existence
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=67]
+[OPCODE: 6 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-189, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+The elves have transpiritation.<NL>
+[OPCODE: 14 | TextPosition | X=-279, Y=208]
+--- TEXT 1 ---
+Although it is faint hope, when the war ends...
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=45]
+[OPCODE: 6 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-142, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+...they can be restored.<NL>
+[OPCODE: 14 | TextPosition | X=-186, Y=208]
+--- TEXT 1 ---
+However, what becomes of us?
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=50]
+[OPCODE: 6 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-179, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+If our souls leave our bodies, <NL>
+[OPCODE: 14 | TextPosition | X=-184, Y=208]
+--- TEXT 1 ---
+they will never return to them
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=47]
+[OPCODE: 6 | DisplayBustup | Always1=5, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-182, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=5, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+We cannot transfer our souls<NL>
+[OPCODE: 14 | TextPosition | X=-167, Y=208]
+--- TEXT 1 ---
+into such things as vessels
+[OPCODE: 16 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=65]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-202, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Mr. Gonovitch, you seem to have <NL>
+[OPCODE: 14 | TextPosition | X=-275, Y=208]
+--- TEXT 1 ---
+an altered understanding of transpiritation
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=32]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-219, Y=190]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+We can indeed use transpiritation...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=51]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-199, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+...to transfer souls. This is what<NL>
+[OPCODE: 14 | TextPosition | X=-168, Y=208]
+--- TEXT 1 ---
+our wisdom provides for us
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=53]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-122, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+However, that is all.<NL>
+[OPCODE: 14 | TextPosition | X=-244, Y=208]
+--- TEXT 1 ---
+If the enemy is plagued with algandars...
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=24]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-171, Y=190]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+...there is nothing we can do
+[OPCODE: 14 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=31]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-134, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+If the soul is plagued, <NL>
+[OPCODE: 14 | TextPosition | X=-82, Y=208]
+--- TEXT 1 ---
+it is hopeless
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=50]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-156, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+We have no time for grief.<NL>
+[OPCODE: 14 | TextPosition | X=-231, Y=208]
+--- TEXT 1 ---
+As Zane says, time is not on our side
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 16 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=51]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-235, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Algandars will rob us of our warriors, <NL>
+[OPCODE: 14 | TextPosition | X=-131, Y=208]
+--- TEXT 1 ---
+our military strength
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 17 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=21]
+[OPCODE: 6 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-154, Y=190]
+[OPCODE: 12 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+We're running out of time
+[OPCODE: 14 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 18 ###
+[OPCODE: 0 | CharacterId | Value=9900, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=3, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=10, Unknown=0]
+[OPCODE: 3 | CharacterId | Value=177, Unknown=0]
+[OPCODE: 4 | CharacterId | Value=163, Unknown=0]
+[OPCODE: 5 | StringSize | Always0=0, Size=58]
+[OPCODE: 6 | DisplayBustup | Always1=4, Value=1]
+[OPCODE: 7 | TextColor | Color=2153736554]
+[OPCODE: 8 | TextShadow | Color=0]
+[OPCODE: 9 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 10 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 11 | TextPosition | X=-176, Y=168]
+[OPCODE: 12 | NamePosition | CharacterNumber=4, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+However, humans are strong.<NL>
+[OPCODE: 14 | TextPosition | X=-235, Y=208]
+--- TEXT 1 ---
+Each individual has such cruelty inside
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+

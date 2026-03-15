@@ -1,0 +1,677 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=51]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-220, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Wake when the sun rises, sleep when<NL>
+[OPCODE: 10 | TextPosition | X=-151, Y=208]
+--- TEXT 1 ---
+the sun sets. 
+[OPCODE: 12 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 2 ---
+That's life.
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=37]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-180, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 0 ---
+The sun isn't up yet. I'm going<NL>
+[OPCODE: 11 | TextPosition | X=-85, Y=208]
+--- TEXT 1 ---
+back to sleep.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=6]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-30, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=0]
+--- TEXT 0 ---
+Zzz...
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=12]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-58, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode3 | Unknown0=1, Unknown1=0]
+--- TEXT 0 ---
+Zzz...zzz...
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=42]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-156, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Wake, exercise, eat, sleep.<NL>
+[OPCODE: 10 | TextPosition | X=-137, Y=208]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 1 ---
+There's so much to do!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=43]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-212, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+You can't live life without doing all<NL>
+[OPCODE: 11 | TextPosition | X=-80, Y=208]
+--- TEXT 1 ---
+those things.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=51]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-191, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+How long can you keep this ball<NL>
+[OPCODE: 11 | TextPosition | X=-186, Y=208]
+--- TEXT 1 ---
+in the air without dropping it?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=45]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-202, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+I'm not even close to dropping it.<NL>
+[OPCODE: 11 | TextPosition | X=-119, Y=208]
+--- TEXT 1 ---
+I can do it all night.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=26]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-199, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+I worked up a whole day's sweat.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=48]
+[OPCODE: 13 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-170, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+That exercise is perfect 
+[OPCODE: 21 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 2 ---
+for<NL>
+[OPCODE: 23 | TextPosition | X=-157, Y=208]
+--- TEXT 3 ---
+increasing concentration.
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=43]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-191, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+In some areas, humans call this<NL>
+[OPCODE: 10 | TextPosition | X=-101, Y=208]
+--- TEXT 1 ---
+exercise juggling.
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=59]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-236, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+Exercise and sweat plenty, then drink <NL>
+[OPCODE: 11 | TextPosition | X=-187, Y=208]
+--- TEXT 1 ---
+water to replenish your fluids.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=25]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-209, Y=190]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 2 ---
+What a great way to spend a day.
+[OPCODE: 23 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=50]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-192, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 0 ---
+The only exercise humans like is<NL>
+[OPCODE: 11 | TextPosition | X=-146, Y=208]
+--- TEXT 1 ---
+pillaging and plundering.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=33]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-171, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+That's not the kind of thing<NL>
+[OPCODE: 23 | TextPosition | X=-68, Y=208]
+--- TEXT 3 ---
+I like to do.
+[OPCODE: 25 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 12 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=38]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-189, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+What about you? Are you living<NL>
+[OPCODE: 11 | TextPosition | X=-86, Y=208]
+--- TEXT 1 ---
+a healthy life?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 13 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=32]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-170, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+You can't hurt me with your<NL>
+[OPCODE: 11 | TextPosition | X=-67, Y=208]
+--- TEXT 1 ---
+weak kicks!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 14 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=36]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-177, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+I'll kick your butt to the edge<NL>
+[OPCODE: 11 | TextPosition | X=-78, Y=208]
+--- TEXT 1 ---
+of the world!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 15 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=26]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-185, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+I'll send you back to your city!
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 16 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=30]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-225, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 0 ---
+Kicking is supposed to be MY talent.
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 17 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=17]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-109, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 0 ---
+How frustrating...
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 18 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=42]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-201, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+Now you know how it feels to be <NL>
+[OPCODE: 11 | TextPosition | X=-125, Y=208]
+--- TEXT 1 ---
+the one being kicked.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 19 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=24]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-184, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+Thank you! I'm warmed up now.
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=17]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-116, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+Oh, you're welcome.
+[OPCODE: 22 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=54]
+[OPCODE: 24 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-206, Y=168]
+[OPCODE: 30 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+I want to fight someone else now.<NL>
+[OPCODE: 32 | TextPosition | X=-214, Y=208]
+--- TEXT 3 ---
+Do you know anyone who's strong?
+[OPCODE: 34 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 35 | StringSize | Always0=0, Size=11]
+[OPCODE: 36 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 37 | TextColor | Color=2153736554]
+[OPCODE: 38 | TextShadow | Color=0]
+[OPCODE: 39 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 40 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 41 | TextPosition | X=-65, Y=190]
+[OPCODE: 42 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 43 | UnknownOpcode4 | Unknown0=2, Unknown1=3]
+--- TEXT 4 ---
+Sure, but...
+[OPCODE: 45 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 46 | StringSize | Always0=0, Size=17]
+[OPCODE: 47 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 48 | TextColor | Color=2153736554]
+[OPCODE: 49 | TextShadow | Color=0]
+[OPCODE: 50 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 51 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 52 | TextPosition | X=-136, Y=190]
+[OPCODE: 53 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 5 ---
+Then take me to them.
+[OPCODE: 55 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 56 | StringSize | Always0=0, Size=5]
+[OPCODE: 57 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 58 | TextColor | Color=2153736554]
+[OPCODE: 59 | TextShadow | Color=0]
+[OPCODE: 60 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 61 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 62 | TextPosition | X=-33, Y=190]
+[OPCODE: 63 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 64 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 6 ---
+Okay.
+[OPCODE: 66 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 67 | StringSize | Always0=0, Size=16]
+[OPCODE: 68 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 69 | TextColor | Color=2153736554]
+[OPCODE: 70 | TextShadow | Color=0]
+[OPCODE: 71 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 72 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 73 | TextPosition | X=-108, Y=190]
+[OPCODE: 74 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 7 ---
+Great. It's a deal.
+[OPCODE: 76 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 20 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=43]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-192, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+When are you going to take me?<NL>
+[OPCODE: 11 | TextPosition | X=-139, Y=208]
+--- TEXT 1 ---
+The sooner the better.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 21 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=31]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-214, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+I'm getting bored of training alone.
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=28]
+[OPCODE: 14 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-206, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+Will you train with me for a while?
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=6]
+[OPCODE: 24 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=0, Y=136]
+[OPCODE: 30 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 31 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 2 ---
+Sure<END>No
+
+### SCRIPT 22 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=14]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-103, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=2]
+--- TEXT 0 ---
+Okay, here we go.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 23 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=13]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-95, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+Don't say that.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 24 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=19]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-134, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+Well, maybe next time.
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 25 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=23]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-156, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 0 ---
+You should exercise daily.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 26 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=26]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-184, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+Please, will you train with me?
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=6]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=0, Y=136]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=0, YPosition=64, XSide=0]
+[OPCODE: 21 | ChoiceBalloon | Unknown=0, ChoicesCount=2]
+--- TEXT 1 ---
+Sure<END>No
+
+### SCRIPT 27 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=28]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-199, Y=190]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 0 ---
+This is the coolest present ever!
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 28 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=17]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-19, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+???<NL>
+[OPCODE: 10 | TextPosition | X=-107, Y=208]
+[OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 1 ---
+What smells bad?
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 29 ###
+[OPCODE: 0 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=50]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-149, Y=168]
+[OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 9 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 0 ---
+If he hadn't performed a<NL>
+[OPCODE: 11 | TextPosition | X=-201, Y=208]
+--- TEXT 1 ---
+transpiritation on a human girl...
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=34]
+[OPCODE: 15 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-179, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+...Lord Nogueira would still be<NL>
+[OPCODE: 23 | TextPosition | X=-47, Y=208]
+--- TEXT 3 ---
+with us.
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=56]
+[OPCODE: 27 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-208, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 34 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+--- TEXT 4 ---
+If I keep feeling this way, I'll never <NL>
+[OPCODE: 36 | TextPosition | X=-184, Y=208]
+--- TEXT 5 ---
+be able to face Lord Nogueira.
+[OPCODE: 38 | TalkDelay | Timer=120, Always3=3]
+

@@ -1,0 +1,185 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=12]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-93, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 0 ---
+Are you ready?
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 1 ###
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+--- TEXT 0 ---
+Yes<NL>No
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=49]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-204, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+All right, let's go. Goblin Haven is<NL>
+[OPCODE: 11 | TextPosition | X=-130, Y=208]
+--- TEXT 1 ---
+in the Sediche region.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=9]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-52, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+All right.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=51]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-194, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+Goblin Haven is pretty far. You<NL>
+[OPCODE: 21 | TextPosition | X=-177, Y=208]
+--- TEXT 2 ---
+should prepare for your trip.
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=15]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-117, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=2]
+--- TEXT 0 ---
+You suck. Go away.
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=14]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-100, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 0 ---
+You're so pesky.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=15]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-100, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 0 ---
+You're annoying.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=13]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-93, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 0 ---
+Leave me alone.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 9 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=13]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-103, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 0 ---
+That was no fun.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 10 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=20]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-161, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=3]
+--- TEXT 0 ---
+That was a waste of time.
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 11 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=0, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=47]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-223, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+It seems there's something else you <NL>
+[OPCODE: 11 | TextPosition | X=-129, Y=208]
+--- TEXT 1 ---
+have to do right now.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+

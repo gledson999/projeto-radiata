@@ -1,0 +1,114 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=30]
+[OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-224, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Chief, what happened between them?
+[OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=15]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-86, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+It is like this...
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=53]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-228, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 20 | UnknownOpcode2 | Unknown=1]
+--- TEXT 1 ---
+Nocturne was a sergeant of Theater <NL>
+[OPCODE: 22 | TextPosition | X=-175, Y=208]
+--- TEXT 2 ---
+Vancoor until ten years ago.
+[OPCODE: 24 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 25 | StringSize | Always0=0, Size=6]
+[OPCODE: 26 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 27 | TextColor | Color=2153736554]
+[OPCODE: 28 | TextShadow | Color=0]
+[OPCODE: 29 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 30 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 31 | TextPosition | X=-47, Y=190]
+[OPCODE: 32 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+No way!
+[OPCODE: 34 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 35 | StringSize | Always0=0, Size=41]
+[OPCODE: 36 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 37 | TextColor | Color=2153736554]
+[OPCODE: 38 | TextShadow | Color=0]
+[OPCODE: 39 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 40 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 41 | TextPosition | X=-238, Y=168]
+[OPCODE: 42 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+However, he absconded after a certain<NL>
+[OPCODE: 44 | TextPosition | X=-53, Y=208]
+--- TEXT 5 ---
+incident.
+[OPCODE: 46 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 47 | StringSize | Always0=0, Size=24]
+[OPCODE: 48 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 49 | TextColor | Color=2153736554]
+[OPCODE: 50 | TextShadow | Color=0]
+[OPCODE: 51 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 52 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 53 | TextPosition | X=-37, Y=168]
+[OPCODE: 54 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 55 | UnknownOpcode2 | Unknown=2]
+--- TEXT 6 ---
+What?<NL>
+[OPCODE: 57 | TextPosition | X=-138, Y=208]
+--- TEXT 7 ---
+What kind of incident?
+[OPCODE: 59 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 60 | StringSize | Always0=0, Size=7]
+[OPCODE: 61 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 62 | TextColor | Color=2153736554]
+[OPCODE: 63 | TextShadow | Color=0]
+[OPCODE: 64 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 65 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 66 | TextPosition | X=-32, Y=190]
+[OPCODE: 67 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 8 ---
+Well...
+[OPCODE: 69 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=12, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=35]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-182, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+We're almost at Faucon Gate.<NL>
+[OPCODE: 11 | TextPosition | X=-70, Y=208]
+--- TEXT 1 ---
+Let's hurry.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+

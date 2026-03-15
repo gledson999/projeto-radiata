@@ -1,0 +1,276 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=20, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=37]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-169, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=3]
+--- TEXT 0 ---
+I want to get this over with<NL>
+[OPCODE: 12 | TextPosition | X=-114, Y=208]
+--- TEXT 1 ---
+and go for a drink.
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=22]
+[OPCODE: 16 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-170, Y=190]
+[OPCODE: 22 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 23 | UnknownOpcode4 | Unknown0=1, Unknown1=4]
+--- TEXT 2 ---
+You ALWAYS want a drink...
+[OPCODE: 25 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=19]
+[OPCODE: 27 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-145, Y=190]
+[OPCODE: 33 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 34 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 3 ---
+Did you say something?
+[OPCODE: 36 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 37 | StringSize | Always0=0, Size=5]
+[OPCODE: 38 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 39 | TextColor | Color=2153736554]
+[OPCODE: 40 | TextShadow | Color=0]
+[OPCODE: 41 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 42 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 43 | TextPosition | X=-25, Y=190]
+[OPCODE: 44 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 4 ---
+No...
+[OPCODE: 46 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=20, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=4]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-26, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 10 | UnknownOpcode4 | Unknown0=2, Unknown1=1]
+--- TEXT 0 ---
+Hey!
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=20, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=18]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-130, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+A journey pig statue!
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=12]
+[OPCODE: 13 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-95, Y=190]
+[OPCODE: 19 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+A what statue?
+[OPCODE: 21 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 22 | StringSize | Always0=0, Size=23]
+[OPCODE: 23 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 24 | TextColor | Color=2153736554]
+[OPCODE: 25 | TextShadow | Color=0]
+[OPCODE: 26 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 27 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 28 | TextPosition | X=-178, Y=190]
+[OPCODE: 29 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 30 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 2 ---
+You don't know what this is?
+[OPCODE: 32 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 33 | StringSize | Always0=0, Size=3]
+[OPCODE: 34 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 35 | TextColor | Color=2153736554]
+[OPCODE: 36 | TextShadow | Color=0]
+[OPCODE: 37 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 38 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 39 | TextPosition | X=-9, Y=190]
+[OPCODE: 40 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+...
+[OPCODE: 42 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 43 | StringSize | Always0=0, Size=49]
+[OPCODE: 44 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 45 | TextColor | Color=2153736554]
+[OPCODE: 46 | TextShadow | Color=0]
+[OPCODE: 47 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 48 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 49 | TextPosition | X=-178, Y=168]
+[OPCODE: 50 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 51 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 4 ---
+This statue can teleport you<NL>
+[OPCODE: 53 | TextPosition | X=-178, Y=208]
+--- TEXT 5 ---
+to places you've been before.
+[OPCODE: 55 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 56 | StringSize | Always0=0, Size=30]
+[OPCODE: 57 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 58 | TextColor | Color=2153736554]
+[OPCODE: 59 | TextShadow | Color=0]
+[OPCODE: 60 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 61 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 62 | TextPosition | X=-90, Y=168]
+[OPCODE: 63 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 64 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
+--- TEXT 6 ---
+That's so cool!<NL>
+[OPCODE: 66 | TextPosition | X=-137, Y=208]
+--- TEXT 7 ---
+How awesome is that?
+[OPCODE: 68 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 69 | StringSize | Always0=0, Size=49]
+[OPCODE: 70 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 71 | TextColor | Color=2153736554]
+[OPCODE: 72 | TextShadow | Color=0]
+[OPCODE: 73 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 74 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 75 | TextPosition | X=-189, Y=168]
+[OPCODE: 76 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 8 ---
+Let's use this to zap ourselves<NL>
+[OPCODE: 78 | TextPosition | X=-165, Y=208]
+--- TEXT 9 ---
+to Lady Anastasia's place!
+[OPCODE: 80 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 81 | StringSize | Always0=0, Size=28]
+[OPCODE: 82 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 83 | TextColor | Color=2153736554]
+[OPCODE: 84 | TextShadow | Color=0]
+[OPCODE: 85 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 86 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 87 | TextPosition | X=-198, Y=190]
+[OPCODE: 88 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 89 | UnknownOpcode4 | Unknown0=2, Unknown1=0]
+--- TEXT 10 ---
+I wish. It's not THAT convenient.
+[OPCODE: 91 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 92 | StringSize | Always0=0, Size=41]
+[OPCODE: 93 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 94 | TextColor | Color=2153736554]
+[OPCODE: 95 | TextShadow | Color=0]
+[OPCODE: 96 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 97 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 98 | TextPosition | X=-195, Y=168]
+[OPCODE: 99 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 11 ---
+You can only teleport to where <NL>
+[OPCODE: 101 | TextPosition | X=-114, Y=208]
+--- TEXT 12 ---
+other statues are.
+[OPCODE: 103 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 104 | StringSize | Always0=0, Size=5]
+[OPCODE: 105 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 106 | TextColor | Color=2153736554]
+[OPCODE: 107 | TextShadow | Color=0]
+[OPCODE: 108 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 109 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 110 | TextPosition | X=-24, Y=190]
+[OPCODE: 111 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 112 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 13 ---
+Oh...
+[OPCODE: 114 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 115 | StringSize | Always0=0, Size=56]
+[OPCODE: 116 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 117 | TextColor | Color=2153736554]
+[OPCODE: 118 | TextShadow | Color=0]
+[OPCODE: 119 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 120 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 121 | TextPosition | X=-194, Y=168]
+[OPCODE: 122 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 14 ---
+If I remember correctly, there's <NL>
+[OPCODE: 124 | TextPosition | X=-217, Y=208]
+--- TEXT 15 ---
+a statue by Lupus Gate in Radiata.
+[OPCODE: 126 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 127 | StringSize | Always0=0, Size=30]
+[OPCODE: 128 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 129 | TextColor | Color=2153736554]
+[OPCODE: 130 | TextShadow | Color=0]
+[OPCODE: 131 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 132 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 133 | TextPosition | X=-215, Y=190]
+[OPCODE: 134 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 135 | UnknownOpcode4 | Unknown0=1, Unknown1=0]
+--- TEXT 16 ---
+Yeah, I think I remember seeing one.
+[OPCODE: 137 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 138 | StringSize | Always0=0, Size=11]
+[OPCODE: 139 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 140 | TextColor | Color=2153736554]
+[OPCODE: 141 | TextShadow | Color=0]
+[OPCODE: 142 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 143 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 144 | TextPosition | X=-75, Y=190]
+[OPCODE: 145 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 17 ---
+Okay, try it.
+[OPCODE: 147 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 148 | StringSize | Always0=0, Size=8]
+[OPCODE: 149 | DisplayBustup | Always1=1, Value=0]
+[OPCODE: 150 | TextColor | Color=2153736554]
+[OPCODE: 151 | TextShadow | Color=0]
+[OPCODE: 152 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 153 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 154 | TextPosition | X=-64, Y=190]
+[OPCODE: 155 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 156 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
+--- TEXT 18 ---
+What? Me?
+[OPCODE: 158 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 159 | StringSize | Always0=0, Size=57]
+[OPCODE: 160 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 161 | TextColor | Color=2153736554]
+[OPCODE: 162 | TextShadow | Color=0]
+[OPCODE: 163 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 164 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 165 | TextPosition | X=-228, Y=168]
+[OPCODE: 166 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 19 ---
+It's easy. Just touch the statue and <NL>
+[OPCODE: 168 | TextPosition | X=-208, Y=208]
+--- TEXT 20 ---
+think of the place you want to go.
+[OPCODE: 170 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 171 | StringSize | Always0=0, Size=19]
+[OPCODE: 172 | DisplayBustup | Always1=2, Value=0]
+[OPCODE: 173 | TextColor | Color=2153736554]
+[OPCODE: 174 | TextShadow | Color=0]
+[OPCODE: 175 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 176 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 177 | TextPosition | X=-141, Y=190]
+[OPCODE: 178 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+[OPCODE: 179 | UnknownOpcode4 | Unknown0=2, Unknown1=4]
+--- TEXT 21 ---
+Come on, let's go home.
+[OPCODE: 181 | TalkDelay | Timer=60, Always3=3]
+

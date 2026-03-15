@@ -1,0 +1,374 @@
+### SCRIPT 0 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=66, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=13]
+[OPCODE: 4 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-87, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+That's enough!
+[OPCODE: 12 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=14]
+[OPCODE: 14 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-31, Y=168]
+[OPCODE: 20 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 21 | UnknownOpcode4 | Unknown0=3, Unknown1=3]
+--- TEXT 1 ---
+Ohh...<NL>
+[OPCODE: 23 | TextPosition | X=-41, Y=208]
+--- TEXT 2 ---
+I lost...
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=66, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=32]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-104, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+A-Are you okay? <NL>
+[OPCODE: 12 | TextPosition | X=-122, Y=208]
+--- TEXT 1 ---
+I guess I overdid it...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 15 | StringSize | Always0=0, Size=58]
+[OPCODE: 16 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 17 | TextColor | Color=2153736554]
+[OPCODE: 18 | TextShadow | Color=0]
+[OPCODE: 19 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 20 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 21 | TextPosition | X=-229, Y=168]
+[OPCODE: 22 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+Don't worry about it. They're trained<NL>
+[OPCODE: 24 | TextPosition | X=-180, Y=208]
+--- TEXT 3 ---
+to handle something like this.
+[OPCODE: 26 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 27 | StringSize | Always0=0, Size=23]
+[OPCODE: 28 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 29 | TextColor | Color=2153736554]
+[OPCODE: 30 | TextShadow | Color=0]
+[OPCODE: 31 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 32 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 33 | TextPosition | X=-35, Y=168]
+[OPCODE: 34 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+[OPCODE: 35 | UnknownOpcode4 | Unknown0=3, Unknown1=0]
+--- TEXT 4 ---
+*sigh*<NL>
+[OPCODE: 37 | TextPosition | X=-126, Y=208]
+--- TEXT 5 ---
+I need to train more.
+[OPCODE: 39 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=66, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=4]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-27, Y=190]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Gah!
+[OPCODE: 12 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 13 | StringSize | Always0=0, Size=13]
+[OPCODE: 14 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 15 | TextColor | Color=2153736554]
+[OPCODE: 16 | TextShadow | Color=0]
+[OPCODE: 17 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 18 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 19 | TextPosition | X=-87, Y=190]
+[OPCODE: 20 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 1 ---
+That's enough!
+[OPCODE: 22 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 23 | StringSize | Always0=0, Size=25]
+[OPCODE: 24 | DisplayBustup | Always1=3, Value=1]
+[OPCODE: 25 | TextColor | Color=2153736554]
+[OPCODE: 26 | TextShadow | Color=0]
+[OPCODE: 27 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 28 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 29 | TextPosition | X=-46, Y=168]
+[OPCODE: 30 | NamePosition | CharacterNumber=3, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+Y-Yes...<NL>
+[OPCODE: 32 | TextPosition | X=-119, Y=208]
+--- TEXT 3 ---
+A-Are you all right?
+[OPCODE: 34 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | CharacterId | Value=66, Unknown=0]
+[OPCODE: 3 | StringSize | Always0=0, Size=35]
+[OPCODE: 4 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 5 | TextColor | Color=2153736554]
+[OPCODE: 6 | TextShadow | Color=0]
+[OPCODE: 7 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 8 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 9 | TextPosition | X=-200, Y=168]
+[OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I guess I lost my concentration...<NL>
+[OPCODE: 12 | TextPosition | X=-36, Y=208]
+--- TEXT 1 ---
+Oww...
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 4 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=36]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-171, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I didn't realize it would end <NL>
+[OPCODE: 11 | TextPosition | X=-70, Y=208]
+--- TEXT 1 ---
+so quickly...
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=52]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-219, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+This isn't really giving them much of<NL>
+[OPCODE: 23 | TextPosition | X=-151, Y=208]
+--- TEXT 3 ---
+a taste of real combat...
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=46]
+[OPCODE: 27 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-219, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+It seems the quality of the warrior <NL>
+[OPCODE: 35 | TextPosition | X=-124, Y=208]
+--- TEXT 5 ---
+guild has gone down.
+[OPCODE: 37 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=34]
+[OPCODE: 39 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-210, Y=168]
+[OPCODE: 45 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 6 ---
+I will have to rethink our ties with <NL>
+[OPCODE: 47 | TextPosition | X=-33, Y=208]
+--- TEXT 7 ---
+them.
+[OPCODE: 49 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 50 | StringSize | Always0=0, Size=6]
+[OPCODE: 51 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 52 | TextColor | Color=2153736554]
+[OPCODE: 53 | TextShadow | Color=0]
+[OPCODE: 54 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 55 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 56 | TextPosition | X=-30, Y=190]
+[OPCODE: 57 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 8 ---
+Ugh...
+[OPCODE: 59 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 60 | StringSize | Always0=0, Size=37]
+[OPCODE: 61 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 62 | TextColor | Color=2153736554]
+[OPCODE: 63 | TextShadow | Color=0]
+[OPCODE: 64 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 65 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 66 | TextPosition | X=-175, Y=168]
+[OPCODE: 67 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 9 ---
+You can pick up your pay at <NL>
+[OPCODE: 69 | TextPosition | X=-104, Y=208]
+--- TEXT 10 ---
+the warrior guild.
+[OPCODE: 71 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=36]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-209, Y=168]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+This ended quicker than I thought <NL>
+[OPCODE: 11 | TextPosition | X=-52, Y=208]
+--- TEXT 1 ---
+it would.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 14 | StringSize | Always0=0, Size=33]
+[OPCODE: 15 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 16 | TextColor | Color=2153736554]
+[OPCODE: 17 | TextShadow | Color=0]
+[OPCODE: 18 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 19 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 20 | TextPosition | X=-224, Y=168]
+[OPCODE: 21 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 2 ---
+This is not the outcome I was hoping<NL>
+[OPCODE: 23 | TextPosition | X=-22, Y=208]
+--- TEXT 3 ---
+for.
+[OPCODE: 25 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 26 | StringSize | Always0=0, Size=46]
+[OPCODE: 27 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 28 | TextColor | Color=2153736554]
+[OPCODE: 29 | TextShadow | Color=0]
+[OPCODE: 30 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 31 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 32 | TextPosition | X=-219, Y=168]
+[OPCODE: 33 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+It seems the quality of the warrior <NL>
+[OPCODE: 35 | TextPosition | X=-124, Y=208]
+--- TEXT 5 ---
+guild has gone down.
+[OPCODE: 37 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 38 | StringSize | Always0=0, Size=3]
+[OPCODE: 39 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 40 | TextColor | Color=2153736554]
+[OPCODE: 41 | TextShadow | Color=0]
+[OPCODE: 42 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 43 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 44 | TextPosition | X=-9, Y=190]
+[OPCODE: 45 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 6 ---
+...
+[OPCODE: 47 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 48 | StringSize | Always0=0, Size=57]
+[OPCODE: 49 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 50 | TextColor | Color=2153736554]
+[OPCODE: 51 | TextShadow | Color=0]
+[OPCODE: 52 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 53 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 54 | TextPosition | X=-232, Y=168]
+[OPCODE: 55 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 7 ---
+Thank you for your help. You can pick <NL>
+[OPCODE: 57 | TextPosition | X=-199, Y=208]
+--- TEXT 8 ---
+up your pay at the warrior guild.
+[OPCODE: 59 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 60 | StringSize | Always0=0, Size=14]
+[OPCODE: 61 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 62 | TextColor | Color=2153736554]
+[OPCODE: 63 | TextShadow | Color=0]
+[OPCODE: 64 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 65 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 66 | TextPosition | X=-94, Y=190]
+[OPCODE: 67 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 9 ---
+Until next time.
+[OPCODE: 69 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=58, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=25]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-181, Y=190]
+[OPCODE: 9 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Jack, thank you for your help.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 12 | StringSize | Always0=0, Size=53]
+[OPCODE: 13 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 14 | TextColor | Color=2153736554]
+[OPCODE: 15 | TextShadow | Color=0]
+[OPCODE: 16 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 17 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 18 | TextPosition | X=-235, Y=168]
+[OPCODE: 19 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 1 ---
+It was a good experience for everyone.<NL>
+[OPCODE: 21 | TextPosition | X=-151, Y=208]
+--- TEXT 2 ---
+I can't thank you enough.
+[OPCODE: 23 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 24 | StringSize | Always0=0, Size=18]
+[OPCODE: 25 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 26 | TextColor | Color=2153736554]
+[OPCODE: 27 | TextShadow | Color=0]
+[OPCODE: 28 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 29 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 30 | TextPosition | X=-110, Y=190]
+[OPCODE: 31 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 3 ---
+Yeah... But I lost...
+[OPCODE: 33 | TalkDelay | Timer=120, Always3=3]
+[OPCODE: 34 | StringSize | Always0=0, Size=55]
+[OPCODE: 35 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 36 | TextColor | Color=2153736554]
+[OPCODE: 37 | TextShadow | Color=0]
+[OPCODE: 38 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 39 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 40 | TextPosition | X=-225, Y=168]
+[OPCODE: 41 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 4 ---
+You did a lot for them. You can pick <NL>
+[OPCODE: 43 | TextPosition | X=-199, Y=208]
+--- TEXT 5 ---
+up your pay at the warrior guild.
+[OPCODE: 45 | TalkDelay | Timer=60, Always3=3]
+[OPCODE: 46 | StringSize | Always0=0, Size=42]
+[OPCODE: 47 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 48 | TextColor | Color=2153736554]
+[OPCODE: 49 | TextShadow | Color=0]
+[OPCODE: 50 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 51 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 52 | TextPosition | X=-209, Y=168]
+[OPCODE: 53 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 6 ---
+I would like to ask you again when <NL>
+[OPCODE: 55 | TextPosition | X=-102, Y=208]
+--- TEXT 7 ---
+the time is right.
+[OPCODE: 57 | TalkDelay | Timer=120, Always3=3]
+

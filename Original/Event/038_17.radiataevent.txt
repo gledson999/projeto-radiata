@@ -1,15 +1,15 @@
 ### SCRIPT 0 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=15]
+[OPCODE: 1 | StringSize | Always0=0, Size=14]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-106, Y=190]
+[OPCODE: 7 | TextPosition | X=-93, Y=190]
 [OPCODE: 8 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-O que é aquilo...?
+What is that...?
 [OPCODE: 10 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 1 ###
@@ -29,29 +29,29 @@ Hmm...
 ### SCRIPT 2 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 --- TEXT 0 ---
-Bandeira de Salvamento<NL>Você poderá salvar seu progresso<NL>na bandeira de salvamento.<NL>
+Save Flags<NL>You can save your game at<NL>save flags.<NL>
 [OPCODE: 2 | TextColor | Color=2148014445]
 --- TEXT 1 ---
-Bandeiras vermelhas
+Red flags
 [OPCODE: 4 | TextColor | Color=2147483648]
 --- TEXT 2 ---
- serão<NL>exibidas na sua casa.<NL>
+ show your home.<NL>
 [OPCODE: 6 | TextColor | Color=2154636047]
 --- TEXT 3 ---
-Bandeiras azuis
+Blue flags
 [OPCODE: 8 | TextColor | Color=2147483648]
 --- TEXT 4 ---
- são encontradas<NL>nas ruas e aldeias, mas desaparecerão<NL>na medida que a história avanç©a.
+ are found in streets<NL>and villages, but disappear as<NL>the story progresses.
 [OPCODE: 10 | TextColor | Color=2153736554]
 
 ### SCRIPT 3 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 --- TEXT 0 ---
-Ao pressionar o 
+By pressing 
 [OPCODE: 2 | TextColor | Color=2153736554]
 --- TEXT 1 ---
 <R1_Button>
 [OPCODE: 4 | TextColor | Color=2147483648]
 --- TEXT 2 ---
-, você poderá achar<NL>as bandeiras de salvar no mapa.<NL>Se a bandeira de salvamento estiver<NL>na cama, você também poderá dormir.
+, you can find the<NL>current save flags on the map.<NL>If the save flag is on a bed, you can<NL>sleep at the save flag point.
 

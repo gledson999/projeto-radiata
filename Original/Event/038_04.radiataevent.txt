@@ -1,38 +1,38 @@
 ### SCRIPT 0 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 [OPCODE: 1 | CharacterId | Value=96, Unknown=0]
-[OPCODE: 2 | StringSize | Always0=0, Size=31]
+[OPCODE: 2 | StringSize | Always0=0, Size=32]
 [OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
 [OPCODE: 4 | TextColor | Color=2153736554]
 [OPCODE: 5 | TextShadow | Color=0]
 [OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-253, Y=190]
+[OPCODE: 8 | TextPosition | X=-224, Y=190]
 [OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=1]
 [OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=118, XSide=0]
 [OPCODE: 11 | UnknownOpcode4 | Unknown0=2, Unknown1=1]
 --- TEXT 0 ---
-Bem, quem é que parece pequeno agora?
+Well, who looks like a little lord now?
 [OPCODE: 13 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 1 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 [OPCODE: 1 | CharacterId | Value=96, Unknown=0]
-[OPCODE: 2 | StringSize | Always0=0, Size=50]
+[OPCODE: 2 | StringSize | Always0=0, Size=45]
 [OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 4 | TextColor | Color=2153736554]
 [OPCODE: 5 | TextShadow | Color=0]
 [OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-238, Y=168]
+[OPCODE: 8 | TextPosition | X=-237, Y=168]
 [OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=2]
 [OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
 [OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
 --- TEXT 0 ---
-Nossa, os cavaleiros reais realmente<NL>
-[OPCODE: 13 | TextPosition | X=-142, Y=208]
+Geez, do the royal knights really fight <NL>
+[OPCODE: 13 | TextPosition | X=-84, Y=208]
 --- TEXT 1 ---
-lutam com esse traje?
+in this getup?
 [OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 2 ###
@@ -54,72 +54,50 @@ Haha...
 ### SCRIPT 3 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 [OPCODE: 1 | CharacterId | Value=96, Unknown=0]
-[OPCODE: 2 | StringSize | Always0=0, Size=86]
+[OPCODE: 2 | StringSize | Always0=0, Size=74]
 [OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
 [OPCODE: 4 | TextColor | Color=2153736554]
 [OPCODE: 5 | TextShadow | Color=0]
 [OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-267, Y=136]
+[OPCODE: 8 | TextPosition | X=-262, Y=136]
 [OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=4]
 [OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=64, XSide=0]
 --- TEXT 0 ---
-Quando você se torna um capitão, poderá<NL>
-[OPCODE: 12 | TextPosition | X=-278, Y=176]
+When you make captain, you can wear what<NL>
+[OPCODE: 12 | TextPosition | X=-207, Y=176]
 --- TEXT 1 ---
-vestir o que quiser. 
+you like. 
 [OPCODE: 14 | UnknownOpcode2 | Unknown=1]
 --- TEXT 2 ---
-Até lá, precisará seguir<NL>
-[OPCODE: 16 | TextPosition | X=-109, Y=216]
+Until then, you stick with<NL>
+[OPCODE: 16 | TextPosition | X=-65, Y=216]
 --- TEXT 3 ---
-os regulamentos.
+regulation.
 [OPCODE: 18 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 4 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 [OPCODE: 1 | CharacterId | Value=96, Unknown=0]
-[OPCODE: 2 | StringSize | Always0=0, Size=40]
+[OPCODE: 2 | StringSize | Always0=0, Size=50]
 [OPCODE: 3 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 4 | TextColor | Color=2153736554]
 [OPCODE: 5 | TextShadow | Color=0]
 [OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-212, Y=168]
+[OPCODE: 8 | TextPosition | X=-226, Y=168]
 [OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=5]
 [OPCODE: 10 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
 [OPCODE: 11 | UnknownOpcode4 | Unknown0=1, Unknown1=3]
 --- TEXT 0 ---
-Sabe, pai, isso não me faz sentir<NL>
-[OPCODE: 13 | TextPosition | X=-102, Y=208]
+You know pops, that doesn't exactly<NL>
+[OPCODE: 13 | TextPosition | X=-151, Y=208]
 --- TEXT 1 ---
-melhor em nada.
+make me feel any better.
 [OPCODE: 15 | UnknownOpcode4 | Unknown0=1, Unknown1=1]
 [OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 5 ###
-[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | CharacterId | Value=96, Unknown=0]
-[OPCODE: 2 | StringSize | Always0=0, Size=56]
-[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
-[OPCODE: 4 | TextColor | Color=2153736554]
-[OPCODE: 5 | TextShadow | Color=0]
-[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-224, Y=168]
-[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=6]
-[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
---- TEXT 0 ---
-Você vai ter que aprender a tratar<NL>
-[OPCODE: 12 | TextPosition | X=-218, Y=208]
---- TEXT 1 ---
-os mais velhos 
-[OPCODE: 14 | UnknownOpcode2 | Unknown=61]
---- TEXT 2 ---
-com mais respeito.
-[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 6 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
 [OPCODE: 1 | CharacterId | Value=96, Unknown=0]
 [OPCODE: 2 | StringSize | Always0=0, Size=57]
@@ -128,18 +106,40 @@ com mais respeito.
 [OPCODE: 5 | TextShadow | Color=0]
 [OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 8 | TextPosition | X=-228, Y=168]
+[OPCODE: 8 | TextPosition | X=-233, Y=168]
+[OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=6]
+[OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+You're going to have to learn to treat<NL>
+[OPCODE: 12 | TextPosition | X=-188, Y=208]
+--- TEXT 1 ---
+your elders 
+[OPCODE: 14 | UnknownOpcode2 | Unknown=61]
+--- TEXT 2 ---
+with more respect.
+[OPCODE: 16 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | CharacterId | Value=96, Unknown=0]
+[OPCODE: 2 | StringSize | Always0=0, Size=48]
+[OPCODE: 3 | DisplayBustup | Always1=2, Value=1]
+[OPCODE: 4 | TextColor | Color=2153736554]
+[OPCODE: 5 | TextShadow | Color=0]
+[OPCODE: 6 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 7 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 8 | TextPosition | X=-184, Y=168]
 [OPCODE: 9 | VoiceLine | Always1F=31, VoiceId=7]
 [OPCODE: 10 | NamePosition | CharacterNumber=2, NameMode=1, YPosition=96, XSide=0]
 [OPCODE: 11 | UnknownOpcode4 | Unknown0=2, Unknown1=2]
 --- TEXT 0 ---
-E quem você está chamando de pai?
+And who are you calling pops?
 [OPCODE: 13 | UnknownOpcode2 | Unknown=71]
 --- TEXT 1 ---
 <NL>
-[OPCODE: 15 | TextPosition | X=-237, Y=208]
+[OPCODE: 15 | TextPosition | X=-166, Y=208]
 --- TEXT 2 ---
-Eu só tenho vinte e um anos, beleza
+I'm only twenty-one, okay
 [OPCODE: 17 | UnknownOpcode2 | Unknown=1]
 --- TEXT 3 ---
 !?

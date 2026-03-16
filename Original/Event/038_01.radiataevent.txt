@@ -1,130 +1,115 @@
 ### SCRIPT 0 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=64]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-265, Y=168]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=1]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
---- TEXT 0 ---
-Bem-vindo aos testes oficiais de seleç©ão<NL>
-[OPCODE: 11 | TextPosition | X=-215, Y=208]
---- TEXT 1 ---
-dos Cavaleiros Reais de Radiata..
-[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 1 ###
-[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=47]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-220, Y=168]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=2]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
---- TEXT 0 ---
-Eu serei o árbitro deste concurso.<NL>
-[OPCODE: 11 | TextPosition | X=-145, Y=208]
---- TEXT 1 ---
-Meu nome é Junzaburo.
-[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 2 ###
-[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=99]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-266, Y=136]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=3]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=64, XSide=0]
---- TEXT 0 ---
-O teste em que vocês estão prestes a se<NL>
-[OPCODE: 11 | TextPosition | X=-259, Y=176]
---- TEXT 1 ---
-enfrentarem é um tradicional torneio de<NL>
-[OPCODE: 13 | TextPosition | X=-251, Y=216]
---- TEXT 2 ---
-eliminaç©ões dos Cavaleiros de Radiata.
-[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 3 ###
-[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=70]
+[OPCODE: 1 | StringSize | Always0=0, Size=55]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
 [OPCODE: 7 | TextPosition | X=-232, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=1]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Welcome to the official Royal Radiata<NL>
+[OPCODE: 11 | TextPosition | X=-148, Y=208]
+--- TEXT 1 ---
+Knights selection trials.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 1 ###
+[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=51]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-232, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=2]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+I will be your referee for this contest.<NL>
+[OPCODE: 11 | TextPosition | X=-138, Y=208]
+--- TEXT 1 ---
+My name is Junzaburo.
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 2 ###
+[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=74]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-218, Y=136]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=3]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=64, XSide=0]
+--- TEXT 0 ---
+The test you are about to face is a<NL>
+[OPCODE: 11 | TextPosition | X=-243, Y=176]
+--- TEXT 1 ---
+traditional Radiata Knights elimination<NL>
+[OPCODE: 13 | TextPosition | X=-76, Y=216]
+--- TEXT 2 ---
+tournament.
+[OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 3 ###
+[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=62]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-204, Y=168]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=4]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
 --- TEXT 0 ---
-Em outras palavras, é uma avaliaç©ão<NL>
-[OPCODE: 11 | TextPosition | X=-293, Y=208]
+In other words, it is a completely<NL>
+[OPCODE: 11 | TextPosition | X=-239, Y=208]
 --- TEXT 1 ---
-completamente imparcial de suas habilidades.
+unbiased assessment of your abilities.
 [OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 4 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=95]
+[OPCODE: 1 | StringSize | Always0=0, Size=88]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-291, Y=136]
+[OPCODE: 7 | TextPosition | X=-232, Y=136]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=5]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=64, XSide=0]
 --- TEXT 0 ---
-Vocês ganharão pontos por cada acerto, mas<NL>
-[OPCODE: 11 | TextPosition | X=-280, Y=176]
+You will earn points for every hit, but<NL>
+[OPCODE: 11 | TextPosition | X=-242, Y=176]
 --- TEXT 1 ---
-deverá ocorrer um nocaute, o vencedor será<NL>
-[OPCODE: 13 | TextPosition | X=-166, Y=216]
+should a knockout occur, the winner will<NL>
+[OPCODE: 13 | TextPosition | X=-151, Y=216]
 --- TEXT 2 ---
-declarado imediatamente.
+be declared immediately.
 [OPCODE: 15 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 5 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=23]
+[OPCODE: 1 | StringSize | Always0=0, Size=22]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-179, Y=190]
+[OPCODE: 7 | TextPosition | X=-153, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=6]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Entendido? Vamos começ©ar.
+Understood? Let's begin.
 [OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 6 ###
-[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=30]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-235, Y=190]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=7]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
---- TEXT 0 ---
-Combatentes, tomem suas posiç©ões.
-[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
-
-### SCRIPT 7 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
 [OPCODE: 1 | StringSize | Always0=0, Size=29]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
@@ -132,26 +117,41 @@ Combatentes, tomem suas posiç©ões.
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-222, Y=190]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=8]
+[OPCODE: 7 | TextPosition | X=-209, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=7]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Teste de seleç©ão, segunda rodada!
+Combatants, take your positions.
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 
-### SCRIPT 8 ###
+### SCRIPT 7 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=35]
+[OPCODE: 1 | StringSize | Always0=0, Size=25]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-241, Y=190]
+[OPCODE: 7 | TextPosition | X=-169, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=8]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+Selection trials, round two!
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=92, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=31]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-203, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=9]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Ridley Silverlake contra. 
+Ridley Silverlake vs. 
 [OPCODE: 11 | UnknownOpcode2 | Unknown=61]
 --- TEXT 1 ---
 Jack Russell!
@@ -159,16 +159,16 @@ Jack Russell!
 
 ### SCRIPT 9 ###
 [OPCODE: 0 | CharacterId | Value=92, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=8]
+[OPCODE: 1 | StringSize | Always0=0, Size=6]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-61, Y=190]
+[OPCODE: 7 | TextPosition | X=-35, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=10]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Comecem!
+Begin!
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 

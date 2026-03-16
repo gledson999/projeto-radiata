@@ -1,50 +1,50 @@
 ### SCRIPT 0 ###
 [OPCODE: 0 | CharacterId | Value=280, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=34]
+[OPCODE: 1 | StringSize | Always0=0, Size=32]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-136, Y=168]
+[OPCODE: 7 | TextPosition | X=-122, Y=168]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=1]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
 --- TEXT 0 ---
-Bem, mamãe e papai...<NL>
-[OPCODE: 11 | TextPosition | X=-129, Y=208]
+Well, Mom and Dad...<NL>
+[OPCODE: 11 | TextPosition | X=-101, Y=208]
 [OPCODE: 12 | UnknownOpcode2 | Unknown=11]
 --- TEXT 1 ---
-Está quase na hora.
+It's almost time.
 [OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 1 ###
 [OPCODE: 0 | CharacterId | Value=280, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=17]
+[OPCODE: 1 | StringSize | Always0=0, Size=18]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-133, Y=190]
+[OPCODE: 7 | TextPosition | X=-129, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=2]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Jack já está pronto.
+Jack's ready at last.
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 2 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=29]
+[OPCODE: 1 | StringSize | Always0=0, Size=25]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-240, Y=190]
+[OPCODE: 7 | TextPosition | X=-173, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=3]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Ei, mana, onde está o café da manhã?
+Hey, sis, where's breakfast?
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 3 ###
@@ -64,114 +64,114 @@ Jack Russell!
 
 ### SCRIPT 4 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=10]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-81, Y=190]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=5]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
---- TEXT 0 ---
-O que eu fiz?
-[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
-
-### SCRIPT 5 ###
-[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=56]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-252, Y=168]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=6]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
---- TEXT 0 ---
-Hoje é o dia que estávamos esperando!<NL>
-[OPCODE: 11 | TextPosition | X=-200, Y=208]
---- TEXT 1 ---
-Não me diga que você esqueceu!
-[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 6 ###
-[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=13]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-98, Y=190]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=7]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
---- TEXT 0 ---
-Eu não esqueci.
-[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
-
-### SCRIPT 7 ###
-[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=48]
-[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
-[OPCODE: 3 | TextColor | Color=2153736554]
-[OPCODE: 4 | TextShadow | Color=0]
-[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
-[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-173, Y=168]
-[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=8]
-[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
---- TEXT 0 ---
-Você certamente esqueceu!<NL>
-[OPCODE: 11 | TextPosition | X=-209, Y=208]
-[OPCODE: 12 | UnknownOpcode2 | Unknown=21]
---- TEXT 1 ---
-Por que não está mais animado?
-[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
-
-### SCRIPT 8 ###
-[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
 [OPCODE: 1 | StringSize | Always0=0, Size=11]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-75, Y=190]
+[OPCODE: 7 | TextPosition | X=-87, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=5]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+What did I do?
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 5 ###
+[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=60]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-242, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=6]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+Today's the day we've been waiting for!<NL>
+[OPCODE: 11 | TextPosition | X=-188, Y=208]
+--- TEXT 1 ---
+Don't tell me you've forgotten!
+[OPCODE: 13 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 6 ###
+[OPCODE: 0 | CharacterId | Value=1, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=18]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-120, Y=190]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=7]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
+--- TEXT 0 ---
+I haven't forgotten.
+[OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
+
+### SCRIPT 7 ###
+[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=45]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-152, Y=168]
+[OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=8]
+[OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=96, XSide=0]
+--- TEXT 0 ---
+You most certainly have!<NL>
+[OPCODE: 11 | TextPosition | X=-179, Y=208]
+[OPCODE: 12 | UnknownOpcode2 | Unknown=21]
+--- TEXT 1 ---
+Why aren't you more excited?
+[OPCODE: 14 | TalkDelay | Timer=120, Always3=3]
+
+### SCRIPT 8 ###
+[OPCODE: 0 | CharacterId | Value=280, Unknown=0]
+[OPCODE: 1 | StringSize | Always0=0, Size=12]
+[OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
+[OPCODE: 3 | TextColor | Color=2153736554]
+[OPCODE: 4 | TextShadow | Color=0]
+[OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
+[OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
+[OPCODE: 7 | TextPosition | X=-82, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=9]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Saia, agora.
+Outside, now.
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 9 ###
 [OPCODE: 0 | CharacterId | Value=1, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=27]
+[OPCODE: 1 | StringSize | Always0=0, Size=17]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-214, Y=190]
+[OPCODE: 7 | TextPosition | X=-129, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=10]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Ah, mas eu acabei de me levantar!
+Aw, but I just got up!
 [OPCODE: 11 | TalkDelay | Timer=120, Always3=3]
 
 ### SCRIPT 10 ###
 [OPCODE: 0 | CharacterId | Value=280, Unknown=0]
-[OPCODE: 1 | StringSize | Always0=0, Size=24]
+[OPCODE: 1 | StringSize | Always0=0, Size=15]
 [OPCODE: 2 | DisplayBustup | Always1=1, Value=1]
 [OPCODE: 3 | TextColor | Color=2153736554]
 [OPCODE: 4 | TextShadow | Color=0]
 [OPCODE: 5 | FontStretching | XStretching=2867, YStretching=5734]
 [OPCODE: 6 | UnknownOpcode1 | Unknown0=4103, Unknown1=768]
-[OPCODE: 7 | TextPosition | X=-200, Y=190]
+[OPCODE: 7 | TextPosition | X=-109, Y=190]
 [OPCODE: 8 | VoiceLine | Always1F=31, VoiceId=11]
 [OPCODE: 9 | NamePosition | CharacterNumber=1, NameMode=1, YPosition=118, XSide=0]
 --- TEXT 0 ---
-Faç©a o que eu estou mandando!
+Do as you're told!
 [OPCODE: 11 | TalkDelay | Timer=60, Always3=3]
 
 ### SCRIPT 11 ###
